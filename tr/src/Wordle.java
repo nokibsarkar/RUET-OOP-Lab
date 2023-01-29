@@ -2,21 +2,14 @@ package src;
 
 import java.io.File;
 import java.io.FileNotFoundException;
-import java.util.ArrayList;
 import java.util.HashSet;
 import java.util.Scanner;
-import java.util.Set;
-
 import javafx.application.Application;
-import javafx.beans.property.SimpleStringProperty;
-import javafx.beans.property.StringProperty;
 import javafx.geometry.Pos;
 import javafx.scene.layout.GridPane;
-import javafx.scene.layout.HBox;
 import javafx.scene.layout.VBox;
 import javafx.scene.text.Font;
 import javafx.stage.Stage;
-import javafx.scene.control.Button;
 import javafx.scene.control.Label;
 import javafx.scene.control.TextField;
 import javafx.scene.input.KeyCode;
@@ -42,7 +35,13 @@ class WordBox {
             // TODO Auto-generated catch block
             e.printStackTrace();
         }
-        chooseRandomWord();
+        for(int i =0; i < database.length; i++){
+            database[i] = database[i].toUpperCase();
+            chooseRandomWord();
+            if(currentGuess.length() < 5){
+                System.out.println(currentGuess);
+            }
+        }
     }
 
     public void chooseRandomWord() {
@@ -98,8 +97,10 @@ public class Wordle extends Application {
         // show the result
         Label result = new Label();
         if (!correct) {
+            result.setTextFill(javafx.scene.paint.Color.RED);
             result.setText("You have guessed " + wordBox.getCurrentGuess() + " incorrectly!");
         } else {
+            result.setTextFill(javafx.scene.paint.Color.GREEN);
             result.setText("You have guessed " + wordBox.getCurrentGuess() + " correctly!");
         }
         result.setFont(mediumFont);
