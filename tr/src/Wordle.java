@@ -10,6 +10,7 @@ import javafx.scene.layout.GridPane;
 import javafx.scene.layout.VBox;
 import javafx.scene.text.Font;
 import javafx.stage.Stage;
+import javafx.scene.control.Button;
 import javafx.scene.control.Label;
 import javafx.scene.control.TextField;
 import javafx.scene.input.KeyCode;
@@ -29,16 +30,16 @@ class WordBox {
         try {
             sc = new Scanner(f);
             String line = sc.nextLine();
-            database = line.split(",");
+            database = line.split("\n");
             sc.close();
         } catch (FileNotFoundException e) {
             // TODO Auto-generated catch block
             e.printStackTrace();
         }
-        for(int i =0; i < database.length; i++){
+        for (int i = 0; i < database.length; i++) {
             database[i] = database[i].toUpperCase();
             chooseRandomWord();
-            if(currentGuess.length() < 5){
+            if (currentGuess.length() < 5) {
                 System.out.println(currentGuess);
             }
         }
@@ -59,8 +60,6 @@ class WordBox {
         // same = same letter, different position
         // position = same letter, same position
         // nonexists = letter does not exist in the word
-
-        System.out.println(getCurrentGuess());
         String[] colors = new String[word.length()];
         HashSet<Character> guessed = new HashSet<Character>();
         for (int i = 0; i < currentGuess.length(); i++) {
@@ -92,10 +91,12 @@ public class Wordle extends Application {
     private Font bigFont = new Font(40);
     private Font mediumFont = new Font(20);
     private int currentRow = 0;
-
+    private GridPane inputPane = new GridPane();
+    private Button restartButton = new Button("Restart");
+    private Label result = new Label();
     private void showResult(boolean correct) {
+        inputPane.setVisible(false);
         // show the result
-        Label result = new Label();
         if (!correct) {
             result.setTextFill(javafx.scene.paint.Color.RED);
             result.setText("You have guessed " + wordBox.getCurrentGuess() + " incorrectly!");
@@ -106,6 +107,14 @@ public class Wordle extends Application {
         result.setFont(mediumFont);
         result.setAlignment(Pos.CENTER);
         verticalBox.getChildren().add(result);
+        restartButton.setOnAction(e -> {
+            restart();
+            restartButton.setVisible(false);
+            result.setVisible(false);
+        });
+        restartButton.setVisible(true);
+        restartButton.setFont(mediumFont);
+        verticalBox.getChildren().add(restartButton);
     }
 
     private void submit(String word) {
@@ -116,7 +125,7 @@ public class Wordle extends Application {
             cell.setText(word.substring(currentColumn, currentColumn + 1));
             cell.setAlignment(Pos.CENTER);
             cell.setEditable(false);
-            //cell.setDisable(true);
+            // cell.setDisable(true);
             cell.setStyle("-fx-background-color: " + colors[currentColumn] + "; -fx-text-fill: white;");
             // cell.minHeightProperty().bind(cell.minWidthProperty());
             cell.setFont(bigFont);
@@ -144,14 +153,14 @@ public class Wordle extends Application {
     private GridPane generateCells() {
         // add 1x5 textfields
         inputCells = new TextField[WORDLENGTH];
-        GridPane h = new GridPane();
+        
         for (int j = 0; j < WORDLENGTH; j++) {
             TextField t = new TextField();
-            //t.setPrefColumnCount(1);
+            // t.setPrefColumnCount(1);
             t.setAlignment(Pos.CENTER);
             t.setFont(bigFont);
             t.setOnKeyReleased(e -> {
-                int currentIndex = h.getChildren().indexOf(t);
+                int currentIndex = inputPane.getChildren().indexOf(t);
                 KeyCode code = e.getCode();
                 if (code.isLetterKey()) {
                     // A letter key was pressed
@@ -161,7 +170,7 @@ public class Wordle extends Application {
                         return;
                     }
                     if (currentIndex < WORDLENGTH - 1) {
-                        TextField nextField = (TextField) h.getChildren().get(currentIndex + 1);
+                        TextField nextField = (TextField) inputPane.getChildren().get(currentIndex + 1);
                         nextField.requestFocus();
                     }
                 } else if (code.equals(KeyCode.SHIFT)) {
@@ -173,29 +182,33 @@ public class Wordle extends Application {
                         if (currentIndex == 0) {
                             return;
                         }
-                        TextField prevField = (TextField) h.getChildren().get(currentIndex - 1);
+                        TextField prevField = (TextField) inputPane.getChildren().get(currentIndex - 1);
                         prevField.requestFocus();
                     }
-                } else if(code.equals(KeyCode.ENTER)) {
-                    if(getCurrentGuess().length() == WORDLENGTH ) {
+                } else if (code.equals(KeyCode.ENTER)) {
+                    if (getCurrentGuess().length() == WORDLENGTH) {
                         submit(getCurrentGuess());
                         evacuateCells();
                     }
-                } 
-                else
-                    {
-                        // Some other key was pressed
+                } else {
+                    // Some other key was pressed
                     t.setText("");
                 }
             });
             t.minHeightProperty().bind(t.minWidthProperty());
             GridPane.setConstraints(t, j, 0);
-            h.getChildren().add(t);
+            inputPane.getChildren().add(t);
             inputCells[j] = t;
         }
-        
-        return h;
 
+        return inputPane;
+
+    }
+    private void restart(){
+        currentRow = 0;
+        gamePane.getChildren().clear();
+        evacuateCells();
+        inputCells[0].requestFocus();
     }
     private String getCurrentGuess() {
         String word = "";
@@ -209,7 +222,7 @@ public class Wordle extends Application {
         GridPane inputs = generateCells();
         verticalBox.getChildren().add(gamePane);
         verticalBox.getChildren().add(inputs);
-        
+
         Scene sc = new Scene(verticalBox, 600, 600);
         primaryStage.setScene(sc);
         gamePane.minWidthProperty().bind(primaryStage.widthProperty());
