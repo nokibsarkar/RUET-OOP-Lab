@@ -6,6 +6,7 @@ class Reserve implements Runnable {
     private static Random rn = new Random();
     public void run(){
         System.out.println("Please Enter your name");
+        // random name
         String name = "passenger-" + Reserve.passengerID;
         Reserve.passengerID++;
         System.out.println("Enter number of tickets you want to buy? :");
@@ -13,6 +14,7 @@ class Reserve implements Runnable {
         reserve(name, tickets);
     }
     private static synchronized void reserve(String name, int tickets){
+        // it is synchronized because we are accessing the shared resource
         if(BusReservation.availableTicket < tickets){
             System.out.println("Reservation failed for " + name);
         } else {
@@ -34,9 +36,7 @@ public class BusReservation {
                 th.start();
                 th.join();
             }
-        
         }
         sc.close();
-            
     }
 }

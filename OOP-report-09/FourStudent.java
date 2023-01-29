@@ -22,7 +22,6 @@ public class FourStudent {
         Thread st2 = new Thread(new Student("writing", 10) ,"student2");
         Thread st3 = new Thread(new Student("playing", 20) ,"student3");
         Thread st4 = new Thread(new Student("gossiping", 10) ,"student4");
-        
         // when st2 starts running no thread can interrupt untill st2 is finished
         // the same goes for st3
         // implement this with priority
