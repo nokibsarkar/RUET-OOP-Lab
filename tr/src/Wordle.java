@@ -20,7 +20,7 @@ import java.util.Random;
 class WordBox {
     private String[] database;
 
-    Random randomGenerator = new Random();
+    private Random randomGenerator = new Random();
     private String currentGuess;
 
     WordBox() {
@@ -30,24 +30,19 @@ class WordBox {
         try {
             sc = new Scanner(f);
             String line = sc.nextLine();
-            database = line.split("\n");
+            database = line.split(",");
+            //System.out.println(database);
             sc.close();
         } catch (FileNotFoundException e) {
-            // TODO Auto-generated catch block
             e.printStackTrace();
         }
-        for (int i = 0; i < database.length; i++) {
-            database[i] = database[i].toUpperCase();
-            chooseRandomWord();
-            if (currentGuess.length() < 5) {
-                System.out.println(currentGuess);
-            }
-        }
+        chooseRandomWord();
     }
 
     public void chooseRandomWord() {
         // choose a random word from the database
         int index = randomGenerator.nextInt(database.length);
+        System.out.println(database.length);
         currentGuess = database[index].toUpperCase();
     }
 
@@ -96,6 +91,8 @@ public class Wordle extends Application {
     private Label result = new Label();
     private void showResult(boolean correct) {
         inputPane.setVisible(false);
+        result.setVisible(true);
+        restartButton.setVisible(true);
         // show the result
         if (!correct) {
             result.setTextFill(javafx.scene.paint.Color.RED);
@@ -150,7 +147,7 @@ public class Wordle extends Application {
         }
     }
 
-    private GridPane generateCells() {
+    private GridPane generateInputPane() {
         // add 1x5 textfields
         inputCells = new TextField[WORDLENGTH];
         
@@ -208,6 +205,8 @@ public class Wordle extends Application {
         currentRow = 0;
         gamePane.getChildren().clear();
         evacuateCells();
+        inputPane.setVisible(true);
+        gamePane.setVisible(true);
         inputCells[0].requestFocus();
     }
     private String getCurrentGuess() {
@@ -219,7 +218,7 @@ public class Wordle extends Application {
     }
 
     public void start(Stage primaryStage) throws Exception {
-        GridPane inputs = generateCells();
+        GridPane inputs = generateInputPane();
         verticalBox.getChildren().add(gamePane);
         verticalBox.getChildren().add(inputs);
 
