@@ -7,11 +7,16 @@ import javafx.scene.control.PasswordField;
 import javafx.scene.control.TextField;
 import javafx.scene.input.KeyEvent;
 import javafx.scene.text.Text;
+import javafx.util.Callback;
 
 public class Login {
     String instructMessage = "Please enter your username and password";
     String successMessage = "Login successful";
     String failMessage = "Login failed";
+    private Callback<Void, Void> loginSuccessCallback = null;
+    void setupLoginSuccessCallback(Callback<Void, Void> callback){
+        loginSuccessCallback = callback;
+    }
     @FXML
     private TextField usernameField;
     @FXML
@@ -39,6 +44,8 @@ public class Login {
         }else{
             messageText.setText(failMessage);
         }
+        if(loginSuccessCallback != null)
+            loginSuccessCallback.call(null);
     }
     @FXML
     void reset(Event e){

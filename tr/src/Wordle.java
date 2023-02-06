@@ -2,14 +2,12 @@ package src;
 
 import java.io.File;
 import java.io.FileNotFoundException;
-import java.util.HashSet;
+import java.util.ArrayList;
 import java.util.Scanner;
-import javafx.application.Application;
 import javafx.geometry.Pos;
 import javafx.scene.layout.GridPane;
 import javafx.scene.layout.VBox;
 import javafx.scene.text.Font;
-import javafx.stage.Stage;
 import javafx.scene.control.Button;
 import javafx.scene.control.Label;
 import javafx.scene.control.TextField;
@@ -42,8 +40,7 @@ class WordBox {
     public void chooseRandomWord() {
         // choose a random word from the database
         int index = randomGenerator.nextInt(database.length);
-        System.out.println(database.length);
-        currentGuess = database[index].toUpperCase();
+        currentGuess =  database[index].toUpperCase();
     }
 
     public String getCurrentGuess() {
@@ -55,18 +52,27 @@ class WordBox {
         // same = same letter, different position
         // position = same letter, same position
         // nonexists = letter does not exist in the word
+        System.out.println("Current guess: " + currentGuess);
+        System.out.println("Word: " + word);
         String[] colors = new String[word.length()];
-        HashSet<Character> guessed = new HashSet<Character>();
+        ArrayList<Character> guessed = new ArrayList<Character>();
         for (int i = 0; i < currentGuess.length(); i++) {
-            guessed.add(currentGuess.charAt(i));
+            guessed.add((Character )currentGuess.charAt(i));
         }
         for (int i = 0; i < word.length(); i++) {
-            if (word.charAt(i) == currentGuess.charAt(i)) {
+            char curchar = word.charAt(i);
+            if (curchar == currentGuess.charAt(i)) {
                 colors[i] = same;
-                guessed.remove(word.charAt(i));
-            } else if (guessed.contains(word.charAt(i))) {
+                guessed.remove((Character) curchar);
+            }
+        }
+        for (int i = 0; i < word.length(); i++) {
+            char curchar = word.charAt(i);
+            if (curchar == currentGuess.charAt(i)) {
+               
+            } else if (guessed.contains(curchar)) {
                 colors[i] = position;
-                guessed.remove(word.charAt(i));
+                guessed.remove((Character) curchar);
             } else {
                 colors[i] = nonexists;
             }
@@ -75,7 +81,7 @@ class WordBox {
     }
 }
 
-public class Wordle extends Application {
+public class Wordle extends Scene {
     // private TextField[][] cells;
     private int WORDLENGTH = 5;
     private int CHANCES = 5;
@@ -83,7 +89,7 @@ public class Wordle extends Application {
     private TextField[] inputCells;
     private GridPane gamePane = new GridPane();
     private VBox verticalBox = new VBox();
-    private Font bigFont = new Font(40);
+    private Font bigFont = new Font(20);
     private Font mediumFont = new Font(20);
     private int currentRow = 0;
     private GridPane inputPane = new GridPane();
@@ -103,15 +109,12 @@ public class Wordle extends Application {
         }
         result.setFont(mediumFont);
         result.setAlignment(Pos.CENTER);
-        verticalBox.getChildren().add(result);
         restartButton.setOnAction(e -> {
             restart();
             restartButton.setVisible(false);
             result.setVisible(false);
         });
         restartButton.setVisible(true);
-        restartButton.setFont(mediumFont);
-        verticalBox.getChildren().add(restartButton);
     }
 
     private void submit(String word) {
@@ -208,6 +211,7 @@ public class Wordle extends Application {
         inputPane.setVisible(true);
         gamePane.setVisible(true);
         inputCells[0].requestFocus();
+        wordBox.chooseRandomWord();
     }
     private String getCurrentGuess() {
         String word = "";
@@ -217,18 +221,17 @@ public class Wordle extends Application {
         return word;
     }
 
-    public void start(Stage primaryStage) throws Exception {
+    Wordle(){
+        super(new VBox());
         GridPane inputs = generateInputPane();
         verticalBox.getChildren().add(gamePane);
         verticalBox.getChildren().add(inputs);
-
-        Scene sc = new Scene(verticalBox, 600, 600);
-        primaryStage.setScene(sc);
-        gamePane.minWidthProperty().bind(primaryStage.widthProperty());
-        primaryStage.show();
+        restartButton.setFont(mediumFont);
+        restartButton.setVisible(false);
+        verticalBox.getChildren().add(restartButton);
+        result.setVisible(false);
+        verticalBox.getChildren().add(result);
+        this.setRoot(verticalBox);
     }
-
-    public static void main(String[] args) {
-        launch();
-    }
+   
 }
