@@ -1,90 +1,37 @@
-package src;
+package src.wordle;
 
-import java.io.File;
-import java.io.FileNotFoundException;
-import java.util.ArrayList;
-import java.util.Scanner;
+import java.io.IOException;
+
+import javafx.collections.ObservableList;
+import javafx.fxml.FXMLLoader;
 import javafx.geometry.Pos;
-import javafx.scene.layout.GridPane;
-import javafx.scene.layout.VBox;
-import javafx.scene.text.Font;
+import javafx.scene.Node;
+import javafx.scene.Parent;
+import javafx.scene.control.Alert;
 import javafx.scene.control.Button;
 import javafx.scene.control.Label;
+import javafx.scene.control.Menu;
+import javafx.scene.control.MenuBar;
+import javafx.scene.control.MenuItem;
 import javafx.scene.control.TextField;
+
 import javafx.scene.input.KeyCode;
-import javafx.scene.Scene;
-import java.util.Random;
 
-class WordBox {
-    private String[] database;
+import javafx.scene.layout.GridPane;
+import javafx.scene.layout.VBox;
 
-    private Random randomGenerator = new Random();
-    private String currentGuess;
+import javafx.scene.text.Font;
+import src.Configuration;
+import src.MyLogger;
+import src.SceneManager;
+import src.WholeScene;
 
-    WordBox() {
-        File f = new File("src/words.csv");
-        // load the words from the file into the database
-        Scanner sc;
-        try {
-            sc = new Scanner(f);
-            String line = sc.nextLine();
-            database = line.split(",");
-            //System.out.println(database);
-            sc.close();
-        } catch (FileNotFoundException e) {
-            e.printStackTrace();
-        }
-        chooseRandomWord();
-    }
 
-    public void chooseRandomWord() {
-        // choose a random word from the database
-        int index = randomGenerator.nextInt(database.length);
-        currentGuess =  database[index].toUpperCase();
-    }
 
-    public String getCurrentGuess() {
-        return currentGuess;
-    }
-
-    public String[] matchGuess(String word, String same, String position, String nonexists) {
-        // return an array of colors that match the word
-        // same = same letter, different position
-        // position = same letter, same position
-        // nonexists = letter does not exist in the word
-        System.out.println("Current guess: " + currentGuess);
-        System.out.println("Word: " + word);
-        String[] colors = new String[word.length()];
-        ArrayList<Character> guessed = new ArrayList<Character>();
-        for (int i = 0; i < currentGuess.length(); i++) {
-            guessed.add((Character )currentGuess.charAt(i));
-        }
-        for (int i = 0; i < word.length(); i++) {
-            char curchar = word.charAt(i);
-            if (curchar == currentGuess.charAt(i)) {
-                colors[i] = same;
-                guessed.remove((Character) curchar);
-            }
-        }
-        for (int i = 0; i < word.length(); i++) {
-            char curchar = word.charAt(i);
-            if (curchar == currentGuess.charAt(i)) {
-               
-            } else if (guessed.contains(curchar)) {
-                colors[i] = position;
-                guessed.remove((Character) curchar);
-            } else {
-                colors[i] = nonexists;
-            }
-        }
-        return colors;
-    }
-}
-
-public class Wordle extends Scene {
-    // private TextField[][] cells;
+public class Wordle extends WholeScene {
     private int WORDLENGTH = 5;
     private int CHANCES = 5;
+    double BOX_H_GAP = 20;
     WordBox wordBox = new WordBox();
     private TextField[] inputCells;
     private GridPane gamePane = new GridPane();
@@ -95,6 +42,8 @@ public class Wordle extends Scene {
     private GridPane inputPane = new GridPane();
     private Button restartButton = new Button("Restart");
     private Label result = new Label();
+    SceneManager sceneManager;
+
     private void showResult(boolean correct) {
         inputPane.setVisible(false);
         result.setVisible(true);
@@ -133,6 +82,8 @@ public class Wordle extends Scene {
             gamePane.getChildren().add(cell);
         }
         boolean guessed = word.equals(wordBox.getCurrentGuess());
+        if(guessed)
+            ScoreManager.addScore(CHANCES - currentRow, wordBox.getCurrentGuess());
         if (guessed || currentRow >= CHANCES) {
             // game over
             showResult(guessed);
@@ -153,12 +104,12 @@ public class Wordle extends Scene {
     private GridPane generateInputPane() {
         // add 1x5 textfields
         inputCells = new TextField[WORDLENGTH];
-        
+
         for (int j = 0; j < WORDLENGTH; j++) {
             TextField t = new TextField();
-            // t.setPrefColumnCount(1);
             t.setAlignment(Pos.CENTER);
             t.setFont(bigFont);
+            
             t.setOnKeyReleased(e -> {
                 int currentIndex = inputPane.getChildren().indexOf(t);
                 KeyCode code = e.getCode();
@@ -200,11 +151,13 @@ public class Wordle extends Scene {
             inputPane.getChildren().add(t);
             inputCells[j] = t;
         }
-
+        inputPane.setHgap(BOX_H_GAP);
+        inputPane.setVgap(10);
         return inputPane;
 
     }
-    private void restart(){
+
+    private void restart() {
         currentRow = 0;
         gamePane.getChildren().clear();
         evacuateCells();
@@ -213,6 +166,7 @@ public class Wordle extends Scene {
         inputCells[0].requestFocus();
         wordBox.chooseRandomWord();
     }
+
     private String getCurrentGuess() {
         String word = "";
         for (int i = 0; i < WORDLENGTH; i++) {
@@ -221,17 +175,85 @@ public class Wordle extends Scene {
         return word;
     }
 
-    Wordle(){
+    MenuBar generateMenu() {
+        MenuBar menuBar = new MenuBar();
+
+        Menu optionsMenu = new Menu("Options");
+        Menu gameMenu = new Menu("Game");
+
+        MenuItem newGame = new MenuItem("New Game");
+        MenuItem about = new MenuItem("Help");
+        MenuItem highScores = new MenuItem("High Scores");
+        MenuItem logout = new MenuItem("Logout");
+        MenuItem exit = new MenuItem("Exit");
+
+        Menu student = new Menu("Student");
+        MenuItem studentInfo = new MenuItem("Student List");
+        MenuItem addStudent = new MenuItem("Add Student");
+        student.getItems().addAll(studentInfo, addStudent);
+
+        gameMenu.getItems().addAll(newGame);
+        gameMenu.getItems().add(highScores);
+        gameMenu.getItems().add(about);
+
+        optionsMenu.getItems().add(student);
+        optionsMenu.getItems().add(logout);
+        optionsMenu.getItems().add(exit);
+
+        newGame.setOnAction(e -> restart());
+        exit.setOnAction(e -> System.exit(0));
+        logout.setOnAction(sceneManager.goToSceneEventHandler("login"));
+        about.setOnAction(e -> {
+            Alert alert = new Alert(Alert.AlertType.INFORMATION);
+            alert.setTitle("Help");
+            alert.setHeaderText("How to Play");
+            alert.setContentText(Configuration.getGameHelp());
+            alert.showAndWait();
+        });
+        studentInfo.setOnAction(sceneManager.goToSceneEventHandler("studentList"));
+        addStudent.setOnAction(sceneManager.goToSceneEventHandler("studentRegister"));
+        highScores.setOnAction(sceneManager.goToSceneEventHandler("score"));
+        menuBar.getMenus().addAll(optionsMenu, gameMenu);
+        return menuBar;
+    }
+    void loadScoreScene(){
+        FXMLLoader loader = new FXMLLoader(getClass().getResource("scoreBoard.fxml"));
+        try {
+            Parent root = loader.load();
+            ScoreController controller = (ScoreController) loader.getController();
+            controller.init(sceneManager);
+            WholeScene scene = new WholeScene(root);
+            scene.setDataHandlerCallback( e -> {
+                controller.load();
+                return null;
+            });
+            sceneManager.addScene( scene, "score");
+        } catch (IOException e) {
+            MyLogger.log(e);
+        }
+        
+    }
+    public Wordle(SceneManager sceneManager) {
         super(new VBox());
+        this.setStageOptions(Configuration.getOptions("wordle"));
+
+        this.sceneManager = sceneManager;
+        
         GridPane inputs = generateInputPane();
-        verticalBox.getChildren().add(gamePane);
-        verticalBox.getChildren().add(inputs);
+        MenuBar menuBar = generateMenu();
+        gamePane.setHgap(BOX_H_GAP);
+        ObservableList<Node> vChildren = verticalBox.getChildren();
+        vChildren.add(menuBar);
+        vChildren.add(gamePane);
+        vChildren.add(inputs);
+        vChildren.add(result);
+        vChildren.add(restartButton);
+
         restartButton.setFont(mediumFont);
         restartButton.setVisible(false);
-        verticalBox.getChildren().add(restartButton);
         result.setVisible(false);
-        verticalBox.getChildren().add(result);
+        loadScoreScene();
         this.setRoot(verticalBox);
     }
-   
+
 }

@@ -1,20 +1,20 @@
-package src;
+package src.login;
 
 import javafx.event.Event;
 import javafx.fxml.FXML;
 import javafx.scene.control.Button;
 import javafx.scene.control.PasswordField;
 import javafx.scene.control.TextField;
-import javafx.scene.input.KeyEvent;
 import javafx.scene.text.Text;
 import javafx.util.Callback;
+import src.Configuration;
 
-public class Login {
+public class LoginController {
     String instructMessage = "Please enter your username and password";
     String successMessage = "Login successful";
     String failMessage = "Login failed";
     private Callback<Void, Void> loginSuccessCallback = null;
-    void setupLoginSuccessCallback(Callback<Void, Void> callback){
+    public void setupLoginSuccessCallback(Callback<Void, Void> callback){
         loginSuccessCallback = callback;
     }
     @FXML
@@ -29,11 +29,8 @@ public class Login {
     private Text messageText;
     @FXML
     void login(Event e){
-        if(e.getEventType().toString().equals("MOUSE_CLICKED"))
-            login();
-        else if(e.getEventType().toString().equals("KEY_RELEASED") && ((KeyEvent) e).getCode().toString().equals("ENTER")){
-            login();
-        }
+        if(!Configuration.isAction(e)) return;
+        login();
     }
     void login(){
         String username = usernameField.getText();
@@ -49,15 +46,8 @@ public class Login {
     }
     @FXML
     void reset(Event e){
-        if(e.getEventType().toString().equals("MOUSE_CLICKED")){
-            System.out.println("reset");
-            reset();
-        } else if(e.getEventType().toString().equals("KEY_RELEASED")){
-            KeyEvent keyEvent = (KeyEvent) e;
-            if(keyEvent.getCode().toString().equals("ENTER")){
-                reset();
-            }
-        }
+        if(!Configuration.isAction(e)) return;
+        reset();
     }
     void reset(){
         usernameField.setText("");

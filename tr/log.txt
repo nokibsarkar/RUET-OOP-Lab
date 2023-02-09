@@ -1,0 +1,1541 @@
+2023-02-09 07:23:28.857 [INFO] src.MyLogger.init	-	Logger initialized	-	null
+2023-02-09 07:23:28.871 [INFO] src.MyLogger.log	-	Starting the application	-	null
+2023-02-09 07:23:28.972 [INFO] src.MyLogger.log	-	Constructing the scenes	-	null
+2023-02-09 07:23:28.974 [INFO] src.MyLogger.log	-	Constructing the login page	-	null
+2023-02-09 07:23:28.975 [INFO] src.MyLogger.log	-	Loading the login page from fxml	-	null
+2023-02-09 07:23:29.215 [INFO] src.MyLogger.log	-	Setting up the login success callback	-	null
+2023-02-09 07:23:29.218 [INFO] src.MyLogger.log	-	Setting up the login failure callback	-	null
+2023-02-09 07:23:29.268 [INFO] src.MyLogger.log	-	Adding the scene to the scene manager	-	null
+2023-02-09 07:23:29.268 [INFO] src.MyLogger.log	-	login	-	null
+2023-02-09 07:23:29.270 [INFO] src.MyLogger.log	-	Constructing the game page	-	null
+2023-02-09 07:23:29.357 [SEVERE] src.MyLogger.log	-	src/wordle/score.ser (No such file or directory)	-	java.io.FileNotFoundException: src/wordle/score.ser (No such file or directory)
+2023-02-09 07:23:29.366 [INFO] src.MyLogger.log	-	score	-	null
+2023-02-09 07:23:29.371 [INFO] src.MyLogger.log	-	Adding the scene to the scene manager	-	null
+2023-02-09 07:23:29.381 [INFO] src.MyLogger.log	-	wordle	-	null
+2023-02-09 07:23:29.384 [INFO] src.MyLogger.log	-	Constructing the student management	-	null
+2023-02-09 07:23:29.478 [INFO] src.MyLogger.log	-	studentList	-	null
+2023-02-09 07:23:29.582 [INFO] src.MyLogger.log	-	studentEdit	-	null
+2023-02-09 07:23:29.653 [INFO] src.MyLogger.log	-	studentRegister	-	null
+2023-02-09 07:23:29.654 [INFO] src.MyLogger.log	-	Adding Icon	-	null
+2023-02-09 07:23:29.655 [INFO] src.MyLogger.log	-	Loading icon	-	null
+2023-02-09 07:23:29.723 [INFO] src.MyLogger.log	-	Ctrl + X handler	-	null
+2023-02-09 07:23:29.727 [INFO] src.MyLogger.log	-	Setting the scene to login	-	null
+2023-02-09 07:23:29.728 [INFO] src.MyLogger.log	-	Pushing login	-	null
+2023-02-09 07:23:29.729 [INFO] src.MyLogger.log	-	0	-	null
+2023-02-09 07:23:29.731 [INFO] src.MyLogger.log	-	Showing the stage	-	null
+2023-02-09 07:23:34.777 [INFO] src.MyLogger.log	-	Setting the scene to wordle	-	null
+2023-02-09 07:23:34.787 [INFO] src.MyLogger.log	-	Pushing wordle	-	null
+2023-02-09 07:23:34.790 [INFO] src.MyLogger.log	-	2	-	null
+2023-02-09 07:23:59.524 [INFO] src.MyLogger.init	-	Logger initialized	-	null
+2023-02-09 07:23:59.538 [INFO] src.MyLogger.log	-	Starting the application	-	null
+2023-02-09 07:23:59.645 [INFO] src.MyLogger.log	-	Constructing the scenes	-	null
+2023-02-09 07:23:59.647 [INFO] src.MyLogger.log	-	Constructing the login page	-	null
+2023-02-09 07:23:59.648 [INFO] src.MyLogger.log	-	Loading the login page from fxml	-	null
+2023-02-09 07:23:59.936 [INFO] src.MyLogger.log	-	Setting up the login success callback	-	null
+2023-02-09 07:23:59.938 [INFO] src.MyLogger.log	-	Setting up the login failure callback	-	null
+2023-02-09 07:24:00.003 [INFO] src.MyLogger.log	-	Adding the scene to the scene manager	-	null
+2023-02-09 07:24:00.004 [INFO] src.MyLogger.log	-	login	-	null
+2023-02-09 07:24:00.006 [INFO] src.MyLogger.log	-	Constructing the game page	-	null
+2023-02-09 07:24:00.098 [SEVERE] src.MyLogger.log	-	src/wordle/score.ser (No such file or directory)	-	java.io.FileNotFoundException: src/wordle/score.ser (No such file or directory)
+2023-02-09 07:24:00.108 [INFO] src.MyLogger.log	-	score	-	null
+2023-02-09 07:24:00.111 [INFO] src.MyLogger.log	-	Adding the scene to the scene manager	-	null
+2023-02-09 07:24:00.112 [INFO] src.MyLogger.log	-	wordle	-	null
+2023-02-09 07:24:00.113 [INFO] src.MyLogger.log	-	Constructing the student management	-	null
+2023-02-09 07:24:00.202 [INFO] src.MyLogger.log	-	studentList	-	null
+2023-02-09 07:24:00.310 [INFO] src.MyLogger.log	-	studentEdit	-	null
+2023-02-09 07:24:00.370 [INFO] src.MyLogger.log	-	studentRegister	-	null
+2023-02-09 07:24:00.373 [INFO] src.MyLogger.log	-	Adding Icon	-	null
+2023-02-09 07:24:00.375 [INFO] src.MyLogger.log	-	Loading icon	-	null
+2023-02-09 07:24:00.447 [INFO] src.MyLogger.log	-	Ctrl + X handler	-	null
+2023-02-09 07:24:00.448 [INFO] src.MyLogger.log	-	Setting the scene to login	-	null
+2023-02-09 07:24:00.449 [INFO] src.MyLogger.log	-	Pushing login	-	null
+2023-02-09 07:24:00.450 [INFO] src.MyLogger.log	-	0	-	null
+2023-02-09 07:24:00.453 [INFO] src.MyLogger.log	-	Showing the stage	-	null
+2023-02-09 07:24:05.539 [INFO] src.MyLogger.log	-	Setting the scene to wordle	-	null
+2023-02-09 07:24:05.547 [INFO] src.MyLogger.log	-	Pushing wordle	-	null
+2023-02-09 07:24:05.550 [INFO] src.MyLogger.log	-	2	-	null
+2023-02-09 07:24:08.489 [INFO] src.MyLogger.log	-	Setting the scene to studentList	-	null
+2023-02-09 07:24:08.494 [INFO] src.MyLogger.log	-	Pushing studentList	-	null
+2023-02-09 07:24:08.497 [INFO] src.MyLogger.log	-	3	-	null
+2023-02-09 07:24:10.501 [INFO] src.MyLogger.log	-	Setting the scene to studentRegister	-	null
+2023-02-09 07:24:10.506 [INFO] src.MyLogger.log	-	Pushing studentRegister	-	null
+2023-02-09 07:24:10.509 [INFO] src.MyLogger.log	-	5	-	null
+2023-02-09 07:26:05.144 [INFO] src.MyLogger.init	-	Logger initialized	-	null
+2023-02-09 07:26:05.158 [INFO] src.MyLogger.log	-	Starting the application	-	null
+2023-02-09 07:26:05.265 [INFO] src.MyLogger.log	-	Constructing the scenes	-	null
+2023-02-09 07:26:05.266 [INFO] src.MyLogger.log	-	Constructing the login page	-	null
+2023-02-09 07:26:05.267 [INFO] src.MyLogger.log	-	Loading the login page from fxml	-	null
+2023-02-09 07:26:05.511 [INFO] src.MyLogger.log	-	Setting up the login success callback	-	null
+2023-02-09 07:26:05.513 [INFO] src.MyLogger.log	-	Setting up the login failure callback	-	null
+2023-02-09 07:26:05.574 [INFO] src.MyLogger.log	-	Adding the scene to the scene manager	-	null
+2023-02-09 07:26:05.575 [INFO] src.MyLogger.log	-	login	-	null
+2023-02-09 07:26:05.576 [INFO] src.MyLogger.log	-	Constructing the game page	-	null
+2023-02-09 07:26:05.685 [SEVERE] src.MyLogger.log	-	src/wordle/score.ser (No such file or directory)	-	java.io.FileNotFoundException: src/wordle/score.ser (No such file or directory)
+2023-02-09 07:26:05.692 [INFO] src.MyLogger.log	-	score	-	null
+2023-02-09 07:26:05.695 [INFO] src.MyLogger.log	-	Adding the scene to the scene manager	-	null
+2023-02-09 07:26:05.696 [INFO] src.MyLogger.log	-	wordle	-	null
+2023-02-09 07:26:05.697 [INFO] src.MyLogger.log	-	Constructing the student management	-	null
+2023-02-09 07:26:05.791 [INFO] src.MyLogger.log	-	studentList	-	null
+2023-02-09 07:26:05.918 [INFO] src.MyLogger.log	-	studentEdit	-	null
+2023-02-09 07:26:05.997 [INFO] src.MyLogger.log	-	studentRegister	-	null
+2023-02-09 07:26:06.000 [INFO] src.MyLogger.log	-	Adding Icon	-	null
+2023-02-09 07:26:06.003 [INFO] src.MyLogger.log	-	Loading icon	-	null
+2023-02-09 07:26:06.079 [INFO] src.MyLogger.log	-	Ctrl + X handler	-	null
+2023-02-09 07:26:06.081 [INFO] src.MyLogger.log	-	Setting the scene to login	-	null
+2023-02-09 07:26:06.081 [INFO] src.MyLogger.log	-	Pushing login	-	null
+2023-02-09 07:26:06.082 [INFO] src.MyLogger.log	-	0	-	null
+2023-02-09 07:26:06.084 [INFO] src.MyLogger.log	-	Showing the stage	-	null
+2023-02-09 07:26:11.155 [INFO] src.MyLogger.log	-	Setting the scene to wordle	-	null
+2023-02-09 07:26:11.164 [INFO] src.MyLogger.log	-	Pushing wordle	-	null
+2023-02-09 07:26:11.167 [INFO] src.MyLogger.log	-	2	-	null
+2023-02-09 07:26:15.502 [INFO] src.MyLogger.log	-	Setting the scene to studentRegister	-	null
+2023-02-09 07:26:15.504 [INFO] src.MyLogger.log	-	Pushing studentRegister	-	null
+2023-02-09 07:26:15.505 [INFO] src.MyLogger.log	-	5	-	null
+2023-02-09 07:26:17.175 [INFO] src.MyLogger.log	-	Setting the scene to studentList	-	null
+2023-02-09 07:26:17.180 [INFO] src.MyLogger.log	-	Pushing studentList	-	null
+2023-02-09 07:26:17.182 [INFO] src.MyLogger.log	-	3	-	null
+2023-02-09 07:26:23.754 [INFO] src.MyLogger.log	-	Setting the scene to studentRegister	-	null
+2023-02-09 07:26:23.756 [INFO] src.MyLogger.log	-	Pushing studentRegister	-	null
+2023-02-09 07:26:23.756 [INFO] src.MyLogger.log	-	5	-	null
+2023-02-09 07:26:25.846 [INFO] src.MyLogger.log	-	Setting the scene to studentList	-	null
+2023-02-09 07:26:25.849 [INFO] src.MyLogger.log	-	Pushing studentList	-	null
+2023-02-09 07:26:25.851 [INFO] src.MyLogger.log	-	3	-	null
+2023-02-09 07:38:56.559 [INFO] src.MyLogger.init	-	Logger initialized	-	null
+2023-02-09 07:38:56.572 [INFO] src.MyLogger.log	-	Starting the application	-	null
+2023-02-09 07:38:56.675 [INFO] src.MyLogger.log	-	Constructing the scenes	-	null
+2023-02-09 07:38:56.677 [INFO] src.MyLogger.log	-	Constructing the login page	-	null
+2023-02-09 07:38:56.678 [INFO] src.MyLogger.log	-	Loading the login page from fxml	-	null
+2023-02-09 07:38:56.921 [INFO] src.MyLogger.log	-	Setting up the login success callback	-	null
+2023-02-09 07:38:56.923 [INFO] src.MyLogger.log	-	Setting up the login failure callback	-	null
+2023-02-09 07:38:56.985 [INFO] src.MyLogger.log	-	Adding the scene to the scene manager	-	null
+2023-02-09 07:38:56.986 [INFO] src.MyLogger.log	-	login	-	null
+2023-02-09 07:38:56.987 [INFO] src.MyLogger.log	-	Constructing the game page	-	null
+2023-02-09 07:38:57.082 [SEVERE] src.MyLogger.log	-	src/wordle/score.ser (No such file or directory)	-	java.io.FileNotFoundException: src/wordle/score.ser (No such file or directory)
+2023-02-09 07:38:57.091 [INFO] src.MyLogger.log	-	score	-	null
+2023-02-09 07:38:57.099 [INFO] src.MyLogger.log	-	Adding the scene to the scene manager	-	null
+2023-02-09 07:38:57.104 [INFO] src.MyLogger.log	-	wordle	-	null
+2023-02-09 07:38:57.107 [INFO] src.MyLogger.log	-	Constructing the student management	-	null
+2023-02-09 07:38:57.198 [INFO] src.MyLogger.log	-	studentList	-	null
+2023-02-09 07:38:57.295 [INFO] src.MyLogger.log	-	studentEdit	-	null
+2023-02-09 07:38:57.351 [INFO] src.MyLogger.log	-	studentRegister	-	null
+2023-02-09 07:38:57.352 [INFO] src.MyLogger.log	-	Adding Icon	-	null
+2023-02-09 07:38:57.353 [INFO] src.MyLogger.log	-	Loading icon	-	null
+2023-02-09 07:38:57.422 [INFO] src.MyLogger.log	-	Ctrl + X handler	-	null
+2023-02-09 07:38:57.427 [INFO] src.MyLogger.log	-	Setting the scene to login	-	null
+2023-02-09 07:38:57.429 [INFO] src.MyLogger.log	-	Pushing login	-	null
+2023-02-09 07:38:57.432 [INFO] src.MyLogger.log	-	0	-	null
+2023-02-09 07:38:57.438 [INFO] src.MyLogger.log	-	Showing the stage	-	null
+2023-02-09 07:39:05.157 [INFO] src.MyLogger.log	-	Setting the scene to wordle	-	null
+2023-02-09 07:39:05.164 [INFO] src.MyLogger.log	-	Pushing wordle	-	null
+2023-02-09 07:39:05.167 [INFO] src.MyLogger.log	-	2	-	null
+2023-02-09 07:39:08.872 [INFO] src.MyLogger.log	-	Setting the scene to studentList	-	null
+2023-02-09 07:39:08.877 [INFO] src.MyLogger.log	-	Pushing studentList	-	null
+2023-02-09 07:39:08.879 [INFO] src.MyLogger.log	-	3	-	null
+2023-02-09 07:39:19.060 [INFO] src.MyLogger.log	-	Setting the scene to studentRegister	-	null
+2023-02-09 07:39:19.064 [INFO] src.MyLogger.log	-	Pushing studentRegister	-	null
+2023-02-09 07:39:19.067 [INFO] src.MyLogger.log	-	5	-	null
+2023-02-09 07:39:21.590 [INFO] src.MyLogger.log	-	Setting the scene to studentList	-	null
+2023-02-09 07:39:21.595 [INFO] src.MyLogger.log	-	Pushing studentList	-	null
+2023-02-09 07:39:21.597 [INFO] src.MyLogger.log	-	3	-	null
+2023-02-09 07:39:24.609 [INFO] src.MyLogger.log	-	Setting the scene to wordle	-	null
+2023-02-09 07:39:24.613 [INFO] src.MyLogger.log	-	Pushing wordle	-	null
+2023-02-09 07:39:24.615 [INFO] src.MyLogger.log	-	2	-	null
+2023-02-09 07:39:27.409 [INFO] src.MyLogger.log	-	Setting the scene to studentRegister	-	null
+2023-02-09 07:39:27.413 [INFO] src.MyLogger.log	-	Pushing studentRegister	-	null
+2023-02-09 07:39:27.414 [INFO] src.MyLogger.log	-	5	-	null
+2023-02-09 07:39:47.300 [INFO] src.MyLogger.log	-	Setting the scene to studentList	-	null
+2023-02-09 07:39:47.306 [INFO] src.MyLogger.log	-	Pushing studentList	-	null
+2023-02-09 07:39:47.308 [INFO] src.MyLogger.log	-	3	-	null
+2023-02-09 07:39:49.747 [INFO] src.MyLogger.log	-	Setting the scene to studentEdit	-	null
+2023-02-09 07:39:49.753 [INFO] src.MyLogger.log	-	Pushing studentEdit	-	null
+2023-02-09 07:39:49.755 [INFO] src.MyLogger.log	-	4	-	null
+2023-02-09 07:43:41.593 [INFO] src.MyLogger.init	-	Logger initialized	-	null
+2023-02-09 07:43:41.606 [INFO] src.MyLogger.log	-	Starting the application	-	null
+2023-02-09 07:43:41.714 [INFO] src.MyLogger.log	-	Constructing the scenes	-	null
+2023-02-09 07:43:41.715 [INFO] src.MyLogger.log	-	Constructing the login page	-	null
+2023-02-09 07:43:41.716 [INFO] src.MyLogger.log	-	Loading the login page from fxml	-	null
+2023-02-09 07:43:41.952 [INFO] src.MyLogger.log	-	Setting up the login success callback	-	null
+2023-02-09 07:43:41.954 [INFO] src.MyLogger.log	-	Setting up the login failure callback	-	null
+2023-02-09 07:43:42.008 [INFO] src.MyLogger.log	-	Adding the scene to the scene manager	-	null
+2023-02-09 07:43:42.009 [INFO] src.MyLogger.log	-	login	-	null
+2023-02-09 07:43:42.010 [INFO] src.MyLogger.log	-	Constructing the game page	-	null
+2023-02-09 07:43:42.113 [SEVERE] src.MyLogger.log	-	src/wordle/score.ser (No such file or directory)	-	java.io.FileNotFoundException: src/wordle/score.ser (No such file or directory)
+2023-02-09 07:43:42.121 [INFO] src.MyLogger.log	-	score	-	null
+2023-02-09 07:43:42.125 [INFO] src.MyLogger.log	-	Adding the scene to the scene manager	-	null
+2023-02-09 07:43:42.126 [INFO] src.MyLogger.log	-	wordle	-	null
+2023-02-09 07:43:42.126 [INFO] src.MyLogger.log	-	Constructing the student management	-	null
+2023-02-09 07:43:42.223 [INFO] src.MyLogger.log	-	studentList	-	null
+2023-02-09 07:43:42.355 [INFO] src.MyLogger.log	-	studentEdit	-	null
+2023-02-09 07:43:42.425 [INFO] src.MyLogger.log	-	studentRegister	-	null
+2023-02-09 07:43:42.426 [INFO] src.MyLogger.log	-	Adding Icon	-	null
+2023-02-09 07:43:42.426 [INFO] src.MyLogger.log	-	Loading icon	-	null
+2023-02-09 07:43:42.489 [INFO] src.MyLogger.log	-	Ctrl + X handler	-	null
+2023-02-09 07:43:42.490 [INFO] src.MyLogger.log	-	Setting the scene to login	-	null
+2023-02-09 07:43:42.491 [INFO] src.MyLogger.log	-	Pushing login	-	null
+2023-02-09 07:43:42.492 [INFO] src.MyLogger.log	-	0	-	null
+2023-02-09 07:43:42.493 [INFO] src.MyLogger.log	-	Showing the stage	-	null
+2023-02-09 07:43:47.802 [INFO] src.MyLogger.log	-	Setting the scene to wordle	-	null
+2023-02-09 07:43:47.808 [INFO] src.MyLogger.log	-	Pushing wordle	-	null
+2023-02-09 07:43:47.809 [INFO] src.MyLogger.log	-	2	-	null
+2023-02-09 07:43:51.217 [INFO] src.MyLogger.log	-	Setting the scene to studentRegister	-	null
+2023-02-09 07:43:51.222 [INFO] src.MyLogger.log	-	Pushing studentRegister	-	null
+2023-02-09 07:43:51.225 [INFO] src.MyLogger.log	-	5	-	null
+2023-02-09 07:43:53.559 [INFO] src.MyLogger.log	-	Setting the scene to studentList	-	null
+2023-02-09 07:43:53.561 [INFO] src.MyLogger.log	-	Pushing studentList	-	null
+2023-02-09 07:43:53.562 [INFO] src.MyLogger.log	-	3	-	null
+2023-02-09 07:43:56.684 [INFO] src.MyLogger.log	-	Setting the scene to wordle	-	null
+2023-02-09 07:43:56.691 [INFO] src.MyLogger.log	-	Pushing wordle	-	null
+2023-02-09 07:43:56.693 [INFO] src.MyLogger.log	-	2	-	null
+2023-02-09 07:43:58.746 [INFO] src.MyLogger.log	-	Setting the scene to score	-	null
+2023-02-09 07:43:58.751 [INFO] src.MyLogger.log	-	Pushing score	-	null
+2023-02-09 07:43:58.754 [INFO] src.MyLogger.log	-	1	-	null
+2023-02-09 07:44:01.326 [INFO] src.MyLogger.log	-	Setting the scene to wordle	-	null
+2023-02-09 07:44:01.328 [INFO] src.MyLogger.log	-	Pushing wordle	-	null
+2023-02-09 07:44:01.328 [INFO] src.MyLogger.log	-	2	-	null
+2023-02-09 07:44:07.993 [INFO] src.MyLogger.log	-	Setting the scene to login	-	null
+2023-02-09 07:44:07.997 [INFO] src.MyLogger.log	-	Pushing login	-	null
+2023-02-09 07:44:08.000 [INFO] src.MyLogger.log	-	0	-	null
+2023-02-09 07:44:09.406 [INFO] src.MyLogger.log	-	Setting the scene to wordle	-	null
+2023-02-09 07:44:09.410 [INFO] src.MyLogger.log	-	Pushing wordle	-	null
+2023-02-09 07:44:09.411 [INFO] src.MyLogger.log	-	2	-	null
+2023-02-09 07:44:12.514 [INFO] src.MyLogger.log	-	Setting the scene to studentRegister	-	null
+2023-02-09 07:44:12.518 [INFO] src.MyLogger.log	-	Pushing studentRegister	-	null
+2023-02-09 07:44:12.521 [INFO] src.MyLogger.log	-	5	-	null
+2023-02-09 07:44:14.118 [INFO] src.MyLogger.log	-	Setting the scene to studentList	-	null
+2023-02-09 07:44:14.121 [INFO] src.MyLogger.log	-	Pushing studentList	-	null
+2023-02-09 07:44:14.123 [INFO] src.MyLogger.log	-	3	-	null
+2023-02-09 07:46:44.757 [INFO] src.MyLogger.init	-	Logger initialized	-	null
+2023-02-09 07:46:44.771 [INFO] src.MyLogger.log	-	Starting the application	-	null
+2023-02-09 07:46:44.885 [INFO] src.MyLogger.log	-	Constructing the scenes	-	null
+2023-02-09 07:46:44.886 [INFO] src.MyLogger.log	-	Constructing the login page	-	null
+2023-02-09 07:46:44.887 [INFO] src.MyLogger.log	-	Loading the login page from fxml	-	null
+2023-02-09 07:46:45.121 [INFO] src.MyLogger.log	-	Setting up the login success callback	-	null
+2023-02-09 07:46:45.124 [INFO] src.MyLogger.log	-	Setting up the login failure callback	-	null
+2023-02-09 07:46:45.178 [INFO] src.MyLogger.log	-	Adding the scene to the scene manager	-	null
+2023-02-09 07:46:45.179 [INFO] src.MyLogger.log	-	login	-	null
+2023-02-09 07:46:45.180 [INFO] src.MyLogger.log	-	Constructing the game page	-	null
+2023-02-09 07:46:45.276 [SEVERE] src.MyLogger.log	-	src/wordle/score.ser (No such file or directory)	-	java.io.FileNotFoundException: src/wordle/score.ser (No such file or directory)
+2023-02-09 07:46:45.285 [INFO] src.MyLogger.log	-	score	-	null
+2023-02-09 07:46:45.290 [INFO] src.MyLogger.log	-	Adding the scene to the scene manager	-	null
+2023-02-09 07:46:45.292 [INFO] src.MyLogger.log	-	wordle	-	null
+2023-02-09 07:46:45.293 [INFO] src.MyLogger.log	-	Constructing the student management	-	null
+2023-02-09 07:46:45.385 [INFO] src.MyLogger.log	-	studentList	-	null
+2023-02-09 07:46:45.489 [INFO] src.MyLogger.log	-	studentEdit	-	null
+2023-02-09 07:46:45.579 [INFO] src.MyLogger.log	-	studentRegister	-	null
+2023-02-09 07:46:45.580 [INFO] src.MyLogger.log	-	Adding Icon	-	null
+2023-02-09 07:46:45.581 [INFO] src.MyLogger.log	-	Loading icon	-	null
+2023-02-09 07:46:45.644 [INFO] src.MyLogger.log	-	Ctrl + X handler	-	null
+2023-02-09 07:46:45.645 [INFO] src.MyLogger.log	-	Setting the scene to login	-	null
+2023-02-09 07:46:45.646 [INFO] src.MyLogger.log	-	Pushing login	-	null
+2023-02-09 07:46:45.647 [INFO] src.MyLogger.log	-	0	-	null
+2023-02-09 07:46:45.648 [INFO] src.MyLogger.log	-	Showing the stage	-	null
+2023-02-09 07:46:50.441 [INFO] src.MyLogger.log	-	Setting the scene to wordle	-	null
+2023-02-09 07:46:50.454 [INFO] src.MyLogger.log	-	Pushing wordle	-	null
+2023-02-09 07:46:50.457 [INFO] src.MyLogger.log	-	2	-	null
+2023-02-09 07:46:53.536 [INFO] src.MyLogger.log	-	Setting the scene to studentList	-	null
+2023-02-09 07:46:53.540 [INFO] src.MyLogger.log	-	Pushing studentList	-	null
+2023-02-09 07:46:53.543 [INFO] src.MyLogger.log	-	3	-	null
+2023-02-09 07:49:25.330 [INFO] src.MyLogger.init	-	Logger initialized	-	null
+2023-02-09 07:49:25.347 [INFO] src.MyLogger.log	-	Starting the application	-	null
+2023-02-09 07:49:25.456 [INFO] src.MyLogger.log	-	Constructing the scenes	-	null
+2023-02-09 07:49:25.457 [INFO] src.MyLogger.log	-	Constructing the login page	-	null
+2023-02-09 07:49:25.458 [INFO] src.MyLogger.log	-	Loading the login page from fxml	-	null
+2023-02-09 07:49:25.721 [INFO] src.MyLogger.log	-	Setting up the login success callback	-	null
+2023-02-09 07:49:25.723 [INFO] src.MyLogger.log	-	Setting up the login failure callback	-	null
+2023-02-09 07:49:25.777 [INFO] src.MyLogger.log	-	Adding the scene to the scene manager	-	null
+2023-02-09 07:49:25.778 [INFO] src.MyLogger.log	-	login	-	null
+2023-02-09 07:49:25.779 [INFO] src.MyLogger.log	-	Constructing the game page	-	null
+2023-02-09 07:49:25.892 [SEVERE] src.MyLogger.log	-	src/wordle/score.ser (No such file or directory)	-	java.io.FileNotFoundException: src/wordle/score.ser (No such file or directory)
+2023-02-09 07:49:25.898 [INFO] src.MyLogger.log	-	score	-	null
+2023-02-09 07:49:25.905 [INFO] src.MyLogger.log	-	Adding the scene to the scene manager	-	null
+2023-02-09 07:49:25.906 [INFO] src.MyLogger.log	-	wordle	-	null
+2023-02-09 07:49:25.907 [INFO] src.MyLogger.log	-	Constructing the student management	-	null
+2023-02-09 07:49:26.013 [INFO] src.MyLogger.log	-	studentList	-	null
+2023-02-09 07:49:26.173 [INFO] src.MyLogger.log	-	studentEdit	-	null
+2023-02-09 07:49:26.256 [INFO] src.MyLogger.log	-	studentRegister	-	null
+2023-02-09 07:49:26.257 [INFO] src.MyLogger.log	-	Adding Icon	-	null
+2023-02-09 07:49:26.258 [INFO] src.MyLogger.log	-	Loading icon	-	null
+2023-02-09 07:49:26.332 [INFO] src.MyLogger.log	-	Ctrl + X handler	-	null
+2023-02-09 07:49:26.333 [INFO] src.MyLogger.log	-	Setting the scene to login	-	null
+2023-02-09 07:49:26.334 [INFO] src.MyLogger.log	-	Pushing login	-	null
+2023-02-09 07:49:26.335 [INFO] src.MyLogger.log	-	0	-	null
+2023-02-09 07:49:26.337 [INFO] src.MyLogger.log	-	Showing the stage	-	null
+2023-02-09 07:49:31.266 [INFO] src.MyLogger.log	-	Setting the scene to wordle	-	null
+2023-02-09 07:49:31.271 [INFO] src.MyLogger.log	-	Pushing wordle	-	null
+2023-02-09 07:49:31.272 [INFO] src.MyLogger.log	-	2	-	null
+2023-02-09 07:49:35.167 [INFO] src.MyLogger.log	-	Setting the scene to studentList	-	null
+2023-02-09 07:49:35.173 [INFO] src.MyLogger.log	-	Pushing studentList	-	null
+2023-02-09 07:49:35.175 [INFO] src.MyLogger.log	-	3	-	null
+2023-02-09 07:50:30.319 [INFO] src.MyLogger.init	-	Logger initialized	-	null
+2023-02-09 07:50:30.334 [INFO] src.MyLogger.log	-	Starting the application	-	null
+2023-02-09 07:50:30.437 [INFO] src.MyLogger.log	-	Constructing the scenes	-	null
+2023-02-09 07:50:30.439 [INFO] src.MyLogger.log	-	Constructing the login page	-	null
+2023-02-09 07:50:30.440 [INFO] src.MyLogger.log	-	Loading the login page from fxml	-	null
+2023-02-09 07:50:30.676 [INFO] src.MyLogger.log	-	Setting up the login success callback	-	null
+2023-02-09 07:50:30.679 [INFO] src.MyLogger.log	-	Setting up the login failure callback	-	null
+2023-02-09 07:50:30.734 [INFO] src.MyLogger.log	-	Adding the scene to the scene manager	-	null
+2023-02-09 07:50:30.735 [INFO] src.MyLogger.log	-	login	-	null
+2023-02-09 07:50:30.736 [INFO] src.MyLogger.log	-	Constructing the game page	-	null
+2023-02-09 07:50:30.832 [SEVERE] src.MyLogger.log	-	src/wordle/score.ser (No such file or directory)	-	java.io.FileNotFoundException: src/wordle/score.ser (No such file or directory)
+2023-02-09 07:50:30.836 [INFO] src.MyLogger.log	-	score	-	null
+2023-02-09 07:50:30.843 [INFO] src.MyLogger.log	-	Adding the scene to the scene manager	-	null
+2023-02-09 07:50:30.844 [INFO] src.MyLogger.log	-	wordle	-	null
+2023-02-09 07:50:30.845 [INFO] src.MyLogger.log	-	Constructing the student management	-	null
+2023-02-09 07:50:30.939 [INFO] src.MyLogger.log	-	studentList	-	null
+2023-02-09 07:50:31.047 [INFO] src.MyLogger.log	-	studentEdit	-	null
+2023-02-09 07:50:31.111 [INFO] src.MyLogger.log	-	studentRegister	-	null
+2023-02-09 07:50:31.111 [INFO] src.MyLogger.log	-	Adding Icon	-	null
+2023-02-09 07:50:31.113 [INFO] src.MyLogger.log	-	Loading icon	-	null
+2023-02-09 07:50:31.190 [INFO] src.MyLogger.log	-	Ctrl + X handler	-	null
+2023-02-09 07:50:31.192 [INFO] src.MyLogger.log	-	Setting the scene to login	-	null
+2023-02-09 07:50:31.193 [INFO] src.MyLogger.log	-	Pushing login	-	null
+2023-02-09 07:50:31.194 [INFO] src.MyLogger.log	-	0	-	null
+2023-02-09 07:50:31.198 [INFO] src.MyLogger.log	-	Showing the stage	-	null
+2023-02-09 07:50:36.244 [INFO] src.MyLogger.log	-	Setting the scene to wordle	-	null
+2023-02-09 07:50:36.251 [INFO] src.MyLogger.log	-	Pushing wordle	-	null
+2023-02-09 07:50:36.254 [INFO] src.MyLogger.log	-	2	-	null
+2023-02-09 07:50:39.283 [INFO] src.MyLogger.log	-	Setting the scene to studentList	-	null
+2023-02-09 07:50:39.288 [INFO] src.MyLogger.log	-	Pushing studentList	-	null
+2023-02-09 07:50:39.291 [INFO] src.MyLogger.log	-	3	-	null
+2023-02-09 07:51:28.754 [INFO] src.MyLogger.init	-	Logger initialized	-	null
+2023-02-09 07:51:28.768 [INFO] src.MyLogger.log	-	Starting the application	-	null
+2023-02-09 07:51:28.875 [INFO] src.MyLogger.log	-	Constructing the scenes	-	null
+2023-02-09 07:51:28.876 [INFO] src.MyLogger.log	-	Constructing the login page	-	null
+2023-02-09 07:51:28.878 [INFO] src.MyLogger.log	-	Loading the login page from fxml	-	null
+2023-02-09 07:51:29.118 [INFO] src.MyLogger.log	-	Setting up the login success callback	-	null
+2023-02-09 07:51:29.120 [INFO] src.MyLogger.log	-	Setting up the login failure callback	-	null
+2023-02-09 07:51:29.171 [INFO] src.MyLogger.log	-	Adding the scene to the scene manager	-	null
+2023-02-09 07:51:29.173 [INFO] src.MyLogger.log	-	login	-	null
+2023-02-09 07:51:29.174 [INFO] src.MyLogger.log	-	Constructing the game page	-	null
+2023-02-09 07:51:29.323 [SEVERE] src.MyLogger.log	-	src/wordle/score.ser (No such file or directory)	-	java.io.FileNotFoundException: src/wordle/score.ser (No such file or directory)
+2023-02-09 07:51:29.344 [INFO] src.MyLogger.log	-	score	-	null
+2023-02-09 07:51:29.352 [INFO] src.MyLogger.log	-	Adding the scene to the scene manager	-	null
+2023-02-09 07:51:29.353 [INFO] src.MyLogger.log	-	wordle	-	null
+2023-02-09 07:51:29.354 [INFO] src.MyLogger.log	-	Constructing the student management	-	null
+2023-02-09 07:51:29.457 [INFO] src.MyLogger.log	-	studentList	-	null
+2023-02-09 07:51:29.575 [INFO] src.MyLogger.log	-	studentEdit	-	null
+2023-02-09 07:51:29.649 [INFO] src.MyLogger.log	-	studentRegister	-	null
+2023-02-09 07:51:29.650 [INFO] src.MyLogger.log	-	Adding Icon	-	null
+2023-02-09 07:51:29.651 [INFO] src.MyLogger.log	-	Loading icon	-	null
+2023-02-09 07:51:29.711 [INFO] src.MyLogger.log	-	Ctrl + X handler	-	null
+2023-02-09 07:51:29.712 [INFO] src.MyLogger.log	-	Setting the scene to login	-	null
+2023-02-09 07:51:29.713 [INFO] src.MyLogger.log	-	Pushing login	-	null
+2023-02-09 07:51:29.714 [INFO] src.MyLogger.log	-	0	-	null
+2023-02-09 07:51:29.716 [INFO] src.MyLogger.log	-	Showing the stage	-	null
+2023-02-09 07:51:35.196 [INFO] src.MyLogger.log	-	Setting the scene to wordle	-	null
+2023-02-09 07:51:35.202 [INFO] src.MyLogger.log	-	Pushing wordle	-	null
+2023-02-09 07:51:35.202 [INFO] src.MyLogger.log	-	2	-	null
+2023-02-09 07:51:38.235 [INFO] src.MyLogger.log	-	Setting the scene to studentList	-	null
+2023-02-09 07:51:38.240 [INFO] src.MyLogger.log	-	Pushing studentList	-	null
+2023-02-09 07:51:38.243 [INFO] src.MyLogger.log	-	3	-	null
+2023-02-09 07:53:26.747 [INFO] src.MyLogger.init	-	Logger initialized	-	null
+2023-02-09 07:53:26.765 [INFO] src.MyLogger.log	-	Starting the application	-	null
+2023-02-09 07:53:26.879 [INFO] src.MyLogger.log	-	Constructing the scenes	-	null
+2023-02-09 07:53:26.881 [INFO] src.MyLogger.log	-	Constructing the login page	-	null
+2023-02-09 07:53:26.882 [INFO] src.MyLogger.log	-	Loading the login page from fxml	-	null
+2023-02-09 07:53:27.119 [INFO] src.MyLogger.log	-	Setting up the login success callback	-	null
+2023-02-09 07:53:27.121 [INFO] src.MyLogger.log	-	Setting up the login failure callback	-	null
+2023-02-09 07:53:27.189 [INFO] src.MyLogger.log	-	Adding the scene to the scene manager	-	null
+2023-02-09 07:53:27.190 [INFO] src.MyLogger.log	-	login	-	null
+2023-02-09 07:53:27.190 [INFO] src.MyLogger.log	-	Constructing the game page	-	null
+2023-02-09 07:53:27.290 [SEVERE] src.MyLogger.log	-	src/wordle/score.ser (No such file or directory)	-	java.io.FileNotFoundException: src/wordle/score.ser (No such file or directory)
+2023-02-09 07:53:27.296 [INFO] src.MyLogger.log	-	score	-	null
+2023-02-09 07:53:27.300 [INFO] src.MyLogger.log	-	Adding the scene to the scene manager	-	null
+2023-02-09 07:53:27.301 [INFO] src.MyLogger.log	-	wordle	-	null
+2023-02-09 07:53:27.302 [INFO] src.MyLogger.log	-	Constructing the student management	-	null
+2023-02-09 07:53:27.390 [INFO] src.MyLogger.log	-	studentList	-	null
+2023-02-09 07:53:27.506 [INFO] src.MyLogger.log	-	studentEdit	-	null
+2023-02-09 07:53:27.565 [INFO] src.MyLogger.log	-	studentRegister	-	null
+2023-02-09 07:53:27.567 [INFO] src.MyLogger.log	-	Adding Icon	-	null
+2023-02-09 07:53:27.568 [INFO] src.MyLogger.log	-	Loading icon	-	null
+2023-02-09 07:53:27.632 [INFO] src.MyLogger.log	-	Ctrl + X handler	-	null
+2023-02-09 07:53:27.633 [INFO] src.MyLogger.log	-	Setting the scene to login	-	null
+2023-02-09 07:53:27.635 [INFO] src.MyLogger.log	-	Pushing login	-	null
+2023-02-09 07:53:27.636 [INFO] src.MyLogger.log	-	0	-	null
+2023-02-09 07:53:27.638 [INFO] src.MyLogger.log	-	Showing the stage	-	null
+2023-02-09 08:17:11.824 [INFO] src.MyLogger.init	-	Logger initialized	-	null
+2023-02-09 08:17:11.844 [INFO] src.MyLogger.log	-	Starting the application	-	null
+2023-02-09 08:17:11.972 [INFO] src.MyLogger.log	-	Constructing the scenes	-	null
+2023-02-09 08:17:11.973 [INFO] src.MyLogger.log	-	Constructing the login page	-	null
+2023-02-09 08:17:11.974 [INFO] src.MyLogger.log	-	Loading the login page from fxml	-	null
+2023-02-09 08:17:12.287 [INFO] src.MyLogger.log	-	Setting up the login success callback	-	null
+2023-02-09 08:17:12.289 [INFO] src.MyLogger.log	-	Setting up the login failure callback	-	null
+2023-02-09 08:17:12.357 [INFO] src.MyLogger.log	-	Adding the scene to the scene manager	-	null
+2023-02-09 08:17:12.359 [INFO] src.MyLogger.log	-	login	-	null
+2023-02-09 08:17:12.360 [INFO] src.MyLogger.log	-	Constructing the game page	-	null
+2023-02-09 08:17:12.460 [SEVERE] src.MyLogger.log	-	src/wordle/score.ser (No such file or directory)	-	java.io.FileNotFoundException: src/wordle/score.ser (No such file or directory)
+2023-02-09 08:17:12.471 [INFO] src.MyLogger.log	-	score	-	null
+2023-02-09 08:17:12.475 [INFO] src.MyLogger.log	-	Adding the scene to the scene manager	-	null
+2023-02-09 08:17:12.476 [INFO] src.MyLogger.log	-	wordle	-	null
+2023-02-09 08:17:12.477 [INFO] src.MyLogger.log	-	Constructing the student management	-	null
+2023-02-09 08:17:12.563 [INFO] src.MyLogger.log	-	studentList	-	null
+2023-02-09 08:17:12.639 [INFO] src.MyLogger.log	-	studentEdit	-	null
+2023-02-09 08:17:12.684 [INFO] src.MyLogger.log	-	studentRegister	-	null
+2023-02-09 08:17:12.688 [INFO] src.MyLogger.log	-	Adding Icon	-	null
+2023-02-09 08:17:12.689 [INFO] src.MyLogger.log	-	Loading icon	-	null
+2023-02-09 08:17:12.751 [INFO] src.MyLogger.log	-	Ctrl + X handler	-	null
+2023-02-09 08:17:12.752 [INFO] src.MyLogger.log	-	Setting the scene to login	-	null
+2023-02-09 08:17:12.753 [INFO] src.MyLogger.log	-	Pushing login	-	null
+2023-02-09 08:17:12.754 [INFO] src.MyLogger.log	-	0	-	null
+2023-02-09 08:17:12.759 [INFO] src.MyLogger.log	-	Showing the stage	-	null
+2023-02-09 08:17:18.405 [INFO] src.MyLogger.log	-	Setting the scene to wordle	-	null
+2023-02-09 08:17:18.411 [INFO] src.MyLogger.log	-	Pushing wordle	-	null
+2023-02-09 08:17:18.411 [INFO] src.MyLogger.log	-	2	-	null
+2023-02-09 08:17:24.712 [INFO] src.MyLogger.log	-	Setting the scene to studentList	-	null
+2023-02-09 08:17:24.717 [INFO] src.MyLogger.log	-	Pushing studentList	-	null
+2023-02-09 08:17:24.721 [INFO] src.MyLogger.log	-	3	-	null
+2023-02-09 08:17:28.547 [INFO] src.MyLogger.log	-	Setting the scene to studentRegister	-	null
+2023-02-09 08:17:28.552 [INFO] src.MyLogger.log	-	Pushing studentRegister	-	null
+2023-02-09 08:17:28.554 [INFO] src.MyLogger.log	-	5	-	null
+2023-02-09 08:17:46.831 [INFO] src.MyLogger.log	-	Setting the scene to studentList	-	null
+2023-02-09 08:17:46.836 [INFO] src.MyLogger.log	-	Pushing studentList	-	null
+2023-02-09 08:17:46.838 [INFO] src.MyLogger.log	-	3	-	null
+2023-02-09 08:18:10.727 [INFO] src.MyLogger.log	-	Setting the scene to studentEdit	-	null
+2023-02-09 08:18:10.731 [INFO] src.MyLogger.log	-	Pushing studentEdit	-	null
+2023-02-09 08:18:10.732 [INFO] src.MyLogger.log	-	4	-	null
+2023-02-09 08:19:07.837 [INFO] src.MyLogger.init	-	Logger initialized	-	null
+2023-02-09 08:19:07.850 [INFO] src.MyLogger.log	-	Starting the application	-	null
+2023-02-09 08:19:07.962 [INFO] src.MyLogger.log	-	Constructing the scenes	-	null
+2023-02-09 08:19:07.964 [INFO] src.MyLogger.log	-	Constructing the login page	-	null
+2023-02-09 08:19:07.965 [INFO] src.MyLogger.log	-	Loading the login page from fxml	-	null
+2023-02-09 08:19:08.230 [INFO] src.MyLogger.log	-	Setting up the login success callback	-	null
+2023-02-09 08:19:08.232 [INFO] src.MyLogger.log	-	Setting up the login failure callback	-	null
+2023-02-09 08:19:08.302 [INFO] src.MyLogger.log	-	Adding the scene to the scene manager	-	null
+2023-02-09 08:19:08.303 [INFO] src.MyLogger.log	-	login	-	null
+2023-02-09 08:19:08.304 [INFO] src.MyLogger.log	-	Constructing the game page	-	null
+2023-02-09 08:19:08.385 [SEVERE] src.MyLogger.log	-	src/wordle/score.ser (No such file or directory)	-	java.io.FileNotFoundException: src/wordle/score.ser (No such file or directory)
+2023-02-09 08:19:08.398 [INFO] src.MyLogger.log	-	score	-	null
+2023-02-09 08:19:08.407 [INFO] src.MyLogger.log	-	Adding the scene to the scene manager	-	null
+2023-02-09 08:19:08.411 [INFO] src.MyLogger.log	-	wordle	-	null
+2023-02-09 08:19:08.414 [INFO] src.MyLogger.log	-	Constructing the student management	-	null
+2023-02-09 08:19:08.502 [INFO] src.MyLogger.log	-	studentList	-	null
+2023-02-09 08:19:08.584 [INFO] src.MyLogger.log	-	studentEdit	-	null
+2023-02-09 08:19:08.630 [INFO] src.MyLogger.log	-	studentRegister	-	null
+2023-02-09 08:19:08.631 [INFO] src.MyLogger.log	-	Adding Icon	-	null
+2023-02-09 08:19:08.632 [INFO] src.MyLogger.log	-	Loading icon	-	null
+2023-02-09 08:19:08.698 [INFO] src.MyLogger.log	-	Ctrl + X handler	-	null
+2023-02-09 08:19:08.699 [INFO] src.MyLogger.log	-	Setting the scene to login	-	null
+2023-02-09 08:19:08.700 [INFO] src.MyLogger.log	-	Pushing login	-	null
+2023-02-09 08:19:08.701 [INFO] src.MyLogger.log	-	0	-	null
+2023-02-09 08:19:08.702 [INFO] src.MyLogger.log	-	Showing the stage	-	null
+2023-02-09 08:19:13.502 [INFO] src.MyLogger.log	-	Setting the scene to wordle	-	null
+2023-02-09 08:19:13.511 [INFO] src.MyLogger.log	-	Pushing wordle	-	null
+2023-02-09 08:19:13.513 [INFO] src.MyLogger.log	-	2	-	null
+2023-02-09 08:19:17.208 [INFO] src.MyLogger.log	-	Setting the scene to studentList	-	null
+2023-02-09 08:19:17.213 [INFO] src.MyLogger.log	-	Pushing studentList	-	null
+2023-02-09 08:19:17.215 [INFO] src.MyLogger.log	-	3	-	null
+2023-02-09 08:19:19.885 [INFO] src.MyLogger.log	-	Setting the scene to studentEdit	-	null
+2023-02-09 08:19:19.887 [INFO] src.MyLogger.log	-	Pushing studentEdit	-	null
+2023-02-09 08:19:19.888 [INFO] src.MyLogger.log	-	4	-	null
+2023-02-09 08:19:22.341 [INFO] src.MyLogger.log	-	Setting the scene to studentList	-	null
+2023-02-09 08:19:22.342 [INFO] src.MyLogger.log	-	Pushing studentList	-	null
+2023-02-09 08:19:22.342 [INFO] src.MyLogger.log	-	3	-	null
+2023-02-09 08:19:28.257 [INFO] src.MyLogger.log	-	Setting the scene to studentRegister	-	null
+2023-02-09 08:19:28.259 [INFO] src.MyLogger.log	-	Pushing studentRegister	-	null
+2023-02-09 08:19:28.260 [INFO] src.MyLogger.log	-	5	-	null
+2023-02-09 08:19:32.989 [INFO] src.MyLogger.log	-	Setting the scene to studentList	-	null
+2023-02-09 08:19:32.990 [INFO] src.MyLogger.log	-	Pushing studentList	-	null
+2023-02-09 08:19:32.991 [INFO] src.MyLogger.log	-	3	-	null
+2023-02-09 08:19:34.629 [INFO] src.MyLogger.log	-	Setting the scene to studentRegister	-	null
+2023-02-09 08:19:34.632 [INFO] src.MyLogger.log	-	Pushing studentRegister	-	null
+2023-02-09 08:19:34.633 [INFO] src.MyLogger.log	-	5	-	null
+2023-02-09 08:19:35.509 [INFO] src.MyLogger.log	-	Setting the scene to studentList	-	null
+2023-02-09 08:19:35.510 [INFO] src.MyLogger.log	-	Pushing studentList	-	null
+2023-02-09 08:19:35.511 [INFO] src.MyLogger.log	-	3	-	null
+2023-02-09 08:21:02.318 [INFO] src.MyLogger.init	-	Logger initialized	-	null
+2023-02-09 08:21:02.332 [INFO] src.MyLogger.log	-	Starting the application	-	null
+2023-02-09 08:21:02.451 [INFO] src.MyLogger.log	-	Constructing the scenes	-	null
+2023-02-09 08:21:02.452 [INFO] src.MyLogger.log	-	Constructing the login page	-	null
+2023-02-09 08:21:02.453 [INFO] src.MyLogger.log	-	Loading the login page from fxml	-	null
+2023-02-09 08:21:02.719 [INFO] src.MyLogger.log	-	Setting up the login success callback	-	null
+2023-02-09 08:21:02.721 [INFO] src.MyLogger.log	-	Setting up the login failure callback	-	null
+2023-02-09 08:21:02.792 [INFO] src.MyLogger.log	-	Adding the scene to the scene manager	-	null
+2023-02-09 08:21:02.794 [INFO] src.MyLogger.log	-	login	-	null
+2023-02-09 08:21:02.795 [INFO] src.MyLogger.log	-	Constructing the game page	-	null
+2023-02-09 08:21:02.873 [SEVERE] src.MyLogger.log	-	src/wordle/score.ser (No such file or directory)	-	java.io.FileNotFoundException: src/wordle/score.ser (No such file or directory)
+2023-02-09 08:21:02.882 [INFO] src.MyLogger.log	-	score	-	null
+2023-02-09 08:21:02.893 [INFO] src.MyLogger.log	-	Adding the scene to the scene manager	-	null
+2023-02-09 08:21:02.894 [INFO] src.MyLogger.log	-	wordle	-	null
+2023-02-09 08:21:02.895 [INFO] src.MyLogger.log	-	Constructing the student management	-	null
+2023-02-09 08:21:03.000 [INFO] src.MyLogger.log	-	studentList	-	null
+2023-02-09 08:21:03.072 [INFO] src.MyLogger.log	-	studentEdit	-	null
+2023-02-09 08:21:03.116 [INFO] src.MyLogger.log	-	studentRegister	-	null
+2023-02-09 08:21:03.117 [INFO] src.MyLogger.log	-	Adding Icon	-	null
+2023-02-09 08:21:03.118 [INFO] src.MyLogger.log	-	Loading icon	-	null
+2023-02-09 08:21:03.176 [INFO] src.MyLogger.log	-	Ctrl + X handler	-	null
+2023-02-09 08:21:03.178 [INFO] src.MyLogger.log	-	Setting the scene to login	-	null
+2023-02-09 08:21:03.179 [INFO] src.MyLogger.log	-	Pushing login	-	null
+2023-02-09 08:21:03.180 [INFO] src.MyLogger.log	-	0	-	null
+2023-02-09 08:21:03.181 [INFO] src.MyLogger.log	-	Showing the stage	-	null
+2023-02-09 08:21:09.355 [INFO] src.MyLogger.log	-	Setting the scene to wordle	-	null
+2023-02-09 08:21:09.362 [INFO] src.MyLogger.log	-	Pushing wordle	-	null
+2023-02-09 08:21:09.362 [INFO] src.MyLogger.log	-	2	-	null
+2023-02-09 08:21:14.109 [INFO] src.MyLogger.log	-	Setting the scene to studentList	-	null
+2023-02-09 08:21:14.114 [INFO] src.MyLogger.log	-	Pushing studentList	-	null
+2023-02-09 08:21:14.116 [INFO] src.MyLogger.log	-	3	-	null
+2023-02-09 08:21:21.868 [INFO] src.MyLogger.log	-	Setting the scene to studentEdit	-	null
+2023-02-09 08:21:21.873 [INFO] src.MyLogger.log	-	Pushing studentEdit	-	null
+2023-02-09 08:21:21.876 [INFO] src.MyLogger.log	-	4	-	null
+2023-02-09 08:21:38.731 [INFO] src.MyLogger.init	-	Logger initialized	-	null
+2023-02-09 08:21:38.745 [INFO] src.MyLogger.log	-	Starting the application	-	null
+2023-02-09 08:21:38.845 [INFO] src.MyLogger.log	-	Constructing the scenes	-	null
+2023-02-09 08:21:38.847 [INFO] src.MyLogger.log	-	Constructing the login page	-	null
+2023-02-09 08:21:38.848 [INFO] src.MyLogger.log	-	Loading the login page from fxml	-	null
+2023-02-09 08:21:39.115 [INFO] src.MyLogger.log	-	Setting up the login success callback	-	null
+2023-02-09 08:21:39.117 [INFO] src.MyLogger.log	-	Setting up the login failure callback	-	null
+2023-02-09 08:21:39.188 [INFO] src.MyLogger.log	-	Adding the scene to the scene manager	-	null
+2023-02-09 08:21:39.190 [INFO] src.MyLogger.log	-	login	-	null
+2023-02-09 08:21:39.191 [INFO] src.MyLogger.log	-	Constructing the game page	-	null
+2023-02-09 08:21:39.268 [SEVERE] src.MyLogger.log	-	src/wordle/score.ser (No such file or directory)	-	java.io.FileNotFoundException: src/wordle/score.ser (No such file or directory)
+2023-02-09 08:21:39.280 [INFO] src.MyLogger.log	-	score	-	null
+2023-02-09 08:21:39.284 [INFO] src.MyLogger.log	-	Adding the scene to the scene manager	-	null
+2023-02-09 08:21:39.285 [INFO] src.MyLogger.log	-	wordle	-	null
+2023-02-09 08:21:39.286 [INFO] src.MyLogger.log	-	Constructing the student management	-	null
+2023-02-09 08:21:39.377 [INFO] src.MyLogger.log	-	studentList	-	null
+2023-02-09 08:21:39.456 [INFO] src.MyLogger.log	-	studentEdit	-	null
+2023-02-09 08:21:39.500 [INFO] src.MyLogger.log	-	studentRegister	-	null
+2023-02-09 08:21:39.501 [INFO] src.MyLogger.log	-	Adding Icon	-	null
+2023-02-09 08:21:39.502 [INFO] src.MyLogger.log	-	Loading icon	-	null
+2023-02-09 08:21:39.557 [INFO] src.MyLogger.log	-	Ctrl + X handler	-	null
+2023-02-09 08:21:39.558 [INFO] src.MyLogger.log	-	Setting the scene to login	-	null
+2023-02-09 08:21:39.559 [INFO] src.MyLogger.log	-	Pushing login	-	null
+2023-02-09 08:21:39.560 [INFO] src.MyLogger.log	-	0	-	null
+2023-02-09 08:21:39.562 [INFO] src.MyLogger.log	-	Showing the stage	-	null
+2023-02-09 08:21:44.332 [INFO] src.MyLogger.log	-	Setting the scene to wordle	-	null
+2023-02-09 08:21:44.335 [INFO] src.MyLogger.log	-	Pushing wordle	-	null
+2023-02-09 08:21:44.335 [INFO] src.MyLogger.log	-	2	-	null
+2023-02-09 08:21:46.646 [INFO] src.MyLogger.log	-	Setting the scene to studentList	-	null
+2023-02-09 08:21:46.652 [INFO] src.MyLogger.log	-	Pushing studentList	-	null
+2023-02-09 08:21:46.655 [INFO] src.MyLogger.log	-	3	-	null
+2023-02-09 08:21:50.756 [INFO] src.MyLogger.log	-	Setting the scene to studentEdit	-	null
+2023-02-09 08:21:50.763 [INFO] src.MyLogger.log	-	Pushing studentEdit	-	null
+2023-02-09 08:21:50.766 [INFO] src.MyLogger.log	-	4	-	null
+2023-02-09 08:22:37.719 [INFO] src.MyLogger.init	-	Logger initialized	-	null
+2023-02-09 08:22:37.734 [INFO] src.MyLogger.log	-	Starting the application	-	null
+2023-02-09 08:22:37.851 [INFO] src.MyLogger.log	-	Constructing the scenes	-	null
+2023-02-09 08:22:37.853 [INFO] src.MyLogger.log	-	Constructing the login page	-	null
+2023-02-09 08:22:37.854 [INFO] src.MyLogger.log	-	Loading the login page from fxml	-	null
+2023-02-09 08:22:38.141 [INFO] src.MyLogger.log	-	Setting up the login success callback	-	null
+2023-02-09 08:22:38.143 [INFO] src.MyLogger.log	-	Setting up the login failure callback	-	null
+2023-02-09 08:22:38.224 [INFO] src.MyLogger.log	-	Adding the scene to the scene manager	-	null
+2023-02-09 08:22:38.225 [INFO] src.MyLogger.log	-	login	-	null
+2023-02-09 08:22:38.226 [INFO] src.MyLogger.log	-	Constructing the game page	-	null
+2023-02-09 08:22:38.341 [SEVERE] src.MyLogger.log	-	src/wordle/score.ser (No such file or directory)	-	java.io.FileNotFoundException: src/wordle/score.ser (No such file or directory)
+2023-02-09 08:22:38.351 [INFO] src.MyLogger.log	-	score	-	null
+2023-02-09 08:22:38.357 [INFO] src.MyLogger.log	-	Adding the scene to the scene manager	-	null
+2023-02-09 08:22:38.360 [INFO] src.MyLogger.log	-	wordle	-	null
+2023-02-09 08:22:38.364 [INFO] src.MyLogger.log	-	Constructing the student management	-	null
+2023-02-09 08:22:38.488 [INFO] src.MyLogger.log	-	studentList	-	null
+2023-02-09 08:22:38.601 [INFO] src.MyLogger.log	-	studentEdit	-	null
+2023-02-09 08:22:38.686 [INFO] src.MyLogger.log	-	studentRegister	-	null
+2023-02-09 08:22:38.687 [INFO] src.MyLogger.log	-	Adding Icon	-	null
+2023-02-09 08:22:38.688 [INFO] src.MyLogger.log	-	Loading icon	-	null
+2023-02-09 08:22:38.747 [INFO] src.MyLogger.log	-	Ctrl + X handler	-	null
+2023-02-09 08:22:38.748 [INFO] src.MyLogger.log	-	Setting the scene to login	-	null
+2023-02-09 08:22:38.749 [INFO] src.MyLogger.log	-	Pushing login	-	null
+2023-02-09 08:22:38.750 [INFO] src.MyLogger.log	-	0	-	null
+2023-02-09 08:22:38.751 [INFO] src.MyLogger.log	-	Showing the stage	-	null
+2023-02-09 08:23:00.171 [INFO] src.MyLogger.log	-	Setting the scene to wordle	-	null
+2023-02-09 08:23:00.174 [INFO] src.MyLogger.log	-	Pushing wordle	-	null
+2023-02-09 08:23:00.175 [INFO] src.MyLogger.log	-	2	-	null
+2023-02-09 08:23:04.265 [INFO] src.MyLogger.log	-	Setting the scene to studentList	-	null
+2023-02-09 08:23:04.267 [INFO] src.MyLogger.log	-	Pushing studentList	-	null
+2023-02-09 08:23:04.268 [INFO] src.MyLogger.log	-	3	-	null
+2023-02-09 08:23:13.650 [INFO] src.MyLogger.log	-	Setting the scene to studentEdit	-	null
+2023-02-09 08:23:13.657 [INFO] src.MyLogger.log	-	Pushing studentEdit	-	null
+2023-02-09 08:23:13.666 [INFO] src.MyLogger.log	-	4	-	null
+2023-02-09 08:23:28.462 [INFO] src.MyLogger.init	-	Logger initialized	-	null
+2023-02-09 08:23:28.481 [INFO] src.MyLogger.log	-	Starting the application	-	null
+2023-02-09 08:23:28.617 [INFO] src.MyLogger.log	-	Constructing the scenes	-	null
+2023-02-09 08:23:28.618 [INFO] src.MyLogger.log	-	Constructing the login page	-	null
+2023-02-09 08:23:28.620 [INFO] src.MyLogger.log	-	Loading the login page from fxml	-	null
+2023-02-09 08:23:28.954 [INFO] src.MyLogger.log	-	Setting up the login success callback	-	null
+2023-02-09 08:23:28.956 [INFO] src.MyLogger.log	-	Setting up the login failure callback	-	null
+2023-02-09 08:23:29.031 [INFO] src.MyLogger.log	-	Adding the scene to the scene manager	-	null
+2023-02-09 08:23:29.032 [INFO] src.MyLogger.log	-	login	-	null
+2023-02-09 08:23:29.033 [INFO] src.MyLogger.log	-	Constructing the game page	-	null
+2023-02-09 08:23:29.126 [SEVERE] src.MyLogger.log	-	src/wordle/score.ser (No such file or directory)	-	java.io.FileNotFoundException: src/wordle/score.ser (No such file or directory)
+2023-02-09 08:23:29.142 [INFO] src.MyLogger.log	-	score	-	null
+2023-02-09 08:23:29.166 [INFO] src.MyLogger.log	-	Adding the scene to the scene manager	-	null
+2023-02-09 08:23:29.167 [INFO] src.MyLogger.log	-	wordle	-	null
+2023-02-09 08:23:29.169 [INFO] src.MyLogger.log	-	Constructing the student management	-	null
+2023-02-09 08:23:29.359 [INFO] src.MyLogger.log	-	studentList	-	null
+2023-02-09 08:23:29.473 [INFO] src.MyLogger.log	-	studentEdit	-	null
+2023-02-09 08:23:29.549 [INFO] src.MyLogger.log	-	studentRegister	-	null
+2023-02-09 08:23:29.551 [INFO] src.MyLogger.log	-	Adding Icon	-	null
+2023-02-09 08:23:29.552 [INFO] src.MyLogger.log	-	Loading icon	-	null
+2023-02-09 08:23:29.618 [INFO] src.MyLogger.log	-	Ctrl + X handler	-	null
+2023-02-09 08:23:29.620 [INFO] src.MyLogger.log	-	Setting the scene to login	-	null
+2023-02-09 08:23:29.621 [INFO] src.MyLogger.log	-	Pushing login	-	null
+2023-02-09 08:23:29.622 [INFO] src.MyLogger.log	-	0	-	null
+2023-02-09 08:23:29.623 [INFO] src.MyLogger.log	-	Showing the stage	-	null
+2023-02-09 08:23:34.464 [INFO] src.MyLogger.log	-	Setting the scene to wordle	-	null
+2023-02-09 08:23:34.471 [INFO] src.MyLogger.log	-	Pushing wordle	-	null
+2023-02-09 08:23:34.472 [INFO] src.MyLogger.log	-	2	-	null
+2023-02-09 08:23:39.395 [INFO] src.MyLogger.log	-	Setting the scene to studentList	-	null
+2023-02-09 08:23:39.400 [INFO] src.MyLogger.log	-	Pushing studentList	-	null
+2023-02-09 08:23:39.404 [INFO] src.MyLogger.log	-	3	-	null
+2023-02-09 08:23:56.461 [INFO] src.MyLogger.log	-	Setting the scene to studentEdit	-	null
+2023-02-09 08:23:56.463 [INFO] src.MyLogger.log	-	Pushing studentEdit	-	null
+2023-02-09 08:23:56.463 [INFO] src.MyLogger.log	-	4	-	null
+2023-02-09 08:24:50.123 [INFO] src.MyLogger.init	-	Logger initialized	-	null
+2023-02-09 08:24:50.141 [INFO] src.MyLogger.log	-	Starting the application	-	null
+2023-02-09 08:24:50.265 [INFO] src.MyLogger.log	-	Constructing the scenes	-	null
+2023-02-09 08:24:50.267 [INFO] src.MyLogger.log	-	Constructing the login page	-	null
+2023-02-09 08:24:50.269 [INFO] src.MyLogger.log	-	Loading the login page from fxml	-	null
+2023-02-09 08:24:50.599 [INFO] src.MyLogger.log	-	Setting up the login success callback	-	null
+2023-02-09 08:24:50.601 [INFO] src.MyLogger.log	-	Setting up the login failure callback	-	null
+2023-02-09 08:24:50.671 [INFO] src.MyLogger.log	-	Adding the scene to the scene manager	-	null
+2023-02-09 08:24:50.673 [INFO] src.MyLogger.log	-	login	-	null
+2023-02-09 08:24:50.675 [INFO] src.MyLogger.log	-	Constructing the game page	-	null
+2023-02-09 08:24:50.819 [SEVERE] src.MyLogger.log	-	src/wordle/score.ser (No such file or directory)	-	java.io.FileNotFoundException: src/wordle/score.ser (No such file or directory)
+2023-02-09 08:24:50.851 [INFO] src.MyLogger.log	-	score	-	null
+2023-02-09 08:24:50.871 [INFO] src.MyLogger.log	-	Adding the scene to the scene manager	-	null
+2023-02-09 08:24:50.873 [INFO] src.MyLogger.log	-	wordle	-	null
+2023-02-09 08:24:50.877 [INFO] src.MyLogger.log	-	Constructing the student management	-	null
+2023-02-09 08:24:51.012 [INFO] src.MyLogger.log	-	studentList	-	null
+2023-02-09 08:24:51.116 [INFO] src.MyLogger.log	-	studentEdit	-	null
+2023-02-09 08:24:51.196 [INFO] src.MyLogger.log	-	studentRegister	-	null
+2023-02-09 08:24:51.197 [INFO] src.MyLogger.log	-	Adding Icon	-	null
+2023-02-09 08:24:51.198 [INFO] src.MyLogger.log	-	Loading icon	-	null
+2023-02-09 08:24:51.258 [INFO] src.MyLogger.log	-	Ctrl + X handler	-	null
+2023-02-09 08:24:51.259 [INFO] src.MyLogger.log	-	Setting the scene to login	-	null
+2023-02-09 08:24:51.260 [INFO] src.MyLogger.log	-	Pushing login	-	null
+2023-02-09 08:24:51.263 [INFO] src.MyLogger.log	-	0	-	null
+2023-02-09 08:24:51.265 [INFO] src.MyLogger.log	-	Showing the stage	-	null
+2023-02-09 08:25:13.618 [INFO] src.MyLogger.log	-	Setting the scene to wordle	-	null
+2023-02-09 08:25:13.629 [INFO] src.MyLogger.log	-	Pushing wordle	-	null
+2023-02-09 08:25:13.634 [INFO] src.MyLogger.log	-	2	-	null
+2023-02-09 08:25:19.227 [INFO] src.MyLogger.log	-	Setting the scene to studentList	-	null
+2023-02-09 08:25:19.229 [INFO] src.MyLogger.log	-	Pushing studentList	-	null
+2023-02-09 08:25:19.230 [INFO] src.MyLogger.log	-	3	-	null
+2023-02-09 08:25:47.957 [INFO] src.MyLogger.log	-	Setting the scene to studentEdit	-	null
+2023-02-09 08:25:47.963 [INFO] src.MyLogger.log	-	Pushing studentEdit	-	null
+2023-02-09 08:25:47.965 [INFO] src.MyLogger.log	-	4	-	null
+2023-02-09 08:26:28.904 [INFO] src.MyLogger.init	-	Logger initialized	-	null
+2023-02-09 08:26:28.924 [INFO] src.MyLogger.log	-	Starting the application	-	null
+2023-02-09 08:26:29.105 [INFO] src.MyLogger.log	-	Constructing the scenes	-	null
+2023-02-09 08:26:29.107 [INFO] src.MyLogger.log	-	Constructing the login page	-	null
+2023-02-09 08:26:29.108 [INFO] src.MyLogger.log	-	Loading the login page from fxml	-	null
+2023-02-09 08:26:29.464 [INFO] src.MyLogger.log	-	Setting up the login success callback	-	null
+2023-02-09 08:26:29.467 [INFO] src.MyLogger.log	-	Setting up the login failure callback	-	null
+2023-02-09 08:26:29.544 [INFO] src.MyLogger.log	-	Adding the scene to the scene manager	-	null
+2023-02-09 08:26:29.547 [INFO] src.MyLogger.log	-	login	-	null
+2023-02-09 08:26:29.548 [INFO] src.MyLogger.log	-	Constructing the game page	-	null
+2023-02-09 08:26:29.644 [SEVERE] src.MyLogger.log	-	src/wordle/score.ser (No such file or directory)	-	java.io.FileNotFoundException: src/wordle/score.ser (No such file or directory)
+2023-02-09 08:26:29.651 [INFO] src.MyLogger.log	-	score	-	null
+2023-02-09 08:26:29.657 [INFO] src.MyLogger.log	-	Adding the scene to the scene manager	-	null
+2023-02-09 08:26:29.658 [INFO] src.MyLogger.log	-	wordle	-	null
+2023-02-09 08:26:29.659 [INFO] src.MyLogger.log	-	Constructing the student management	-	null
+2023-02-09 08:26:29.774 [INFO] src.MyLogger.log	-	studentList	-	null
+2023-02-09 08:26:29.892 [INFO] src.MyLogger.log	-	studentEdit	-	null
+2023-02-09 08:26:29.970 [INFO] src.MyLogger.log	-	studentRegister	-	null
+2023-02-09 08:26:29.970 [INFO] src.MyLogger.log	-	Adding Icon	-	null
+2023-02-09 08:26:29.971 [INFO] src.MyLogger.log	-	Loading icon	-	null
+2023-02-09 08:26:30.036 [INFO] src.MyLogger.log	-	Ctrl + X handler	-	null
+2023-02-09 08:26:30.038 [INFO] src.MyLogger.log	-	Setting the scene to login	-	null
+2023-02-09 08:26:30.039 [INFO] src.MyLogger.log	-	Pushing login	-	null
+2023-02-09 08:26:30.039 [INFO] src.MyLogger.log	-	0	-	null
+2023-02-09 08:26:30.041 [INFO] src.MyLogger.log	-	Showing the stage	-	null
+2023-02-09 08:26:35.565 [INFO] src.MyLogger.log	-	Setting the scene to wordle	-	null
+2023-02-09 08:26:35.569 [INFO] src.MyLogger.log	-	Pushing wordle	-	null
+2023-02-09 08:26:35.570 [INFO] src.MyLogger.log	-	2	-	null
+2023-02-09 08:26:38.651 [INFO] src.MyLogger.log	-	Setting the scene to studentList	-	null
+2023-02-09 08:26:38.655 [INFO] src.MyLogger.log	-	Pushing studentList	-	null
+2023-02-09 08:26:38.658 [INFO] src.MyLogger.log	-	3	-	null
+2023-02-09 08:26:54.958 [INFO] src.MyLogger.log	-	Setting the scene to studentEdit	-	null
+2023-02-09 08:26:54.960 [INFO] src.MyLogger.log	-	Pushing studentEdit	-	null
+2023-02-09 08:26:54.961 [INFO] src.MyLogger.log	-	4	-	null
+2023-02-09 08:27:21.724 [INFO] src.MyLogger.init	-	Logger initialized	-	null
+2023-02-09 08:27:21.744 [INFO] src.MyLogger.log	-	Starting the application	-	null
+2023-02-09 08:27:21.886 [INFO] src.MyLogger.log	-	Constructing the scenes	-	null
+2023-02-09 08:27:21.888 [INFO] src.MyLogger.log	-	Constructing the login page	-	null
+2023-02-09 08:27:21.889 [INFO] src.MyLogger.log	-	Loading the login page from fxml	-	null
+2023-02-09 08:27:22.235 [INFO] src.MyLogger.log	-	Setting up the login success callback	-	null
+2023-02-09 08:27:22.238 [INFO] src.MyLogger.log	-	Setting up the login failure callback	-	null
+2023-02-09 08:27:22.310 [INFO] src.MyLogger.log	-	Adding the scene to the scene manager	-	null
+2023-02-09 08:27:22.311 [INFO] src.MyLogger.log	-	login	-	null
+2023-02-09 08:27:22.312 [INFO] src.MyLogger.log	-	Constructing the game page	-	null
+2023-02-09 08:27:22.408 [SEVERE] src.MyLogger.log	-	src/wordle/score.ser (No such file or directory)	-	java.io.FileNotFoundException: src/wordle/score.ser (No such file or directory)
+2023-02-09 08:27:22.419 [INFO] src.MyLogger.log	-	score	-	null
+2023-02-09 08:27:22.425 [INFO] src.MyLogger.log	-	Adding the scene to the scene manager	-	null
+2023-02-09 08:27:22.427 [INFO] src.MyLogger.log	-	wordle	-	null
+2023-02-09 08:27:22.428 [INFO] src.MyLogger.log	-	Constructing the student management	-	null
+2023-02-09 08:27:22.579 [INFO] src.MyLogger.log	-	studentList	-	null
+2023-02-09 08:27:22.707 [INFO] src.MyLogger.log	-	studentEdit	-	null
+2023-02-09 08:27:22.794 [INFO] src.MyLogger.log	-	studentRegister	-	null
+2023-02-09 08:27:22.795 [INFO] src.MyLogger.log	-	Adding Icon	-	null
+2023-02-09 08:27:22.796 [INFO] src.MyLogger.log	-	Loading icon	-	null
+2023-02-09 08:27:22.856 [INFO] src.MyLogger.log	-	Ctrl + X handler	-	null
+2023-02-09 08:27:22.861 [INFO] src.MyLogger.log	-	Setting the scene to login	-	null
+2023-02-09 08:27:22.862 [INFO] src.MyLogger.log	-	Pushing login	-	null
+2023-02-09 08:27:22.865 [INFO] src.MyLogger.log	-	0	-	null
+2023-02-09 08:27:22.868 [INFO] src.MyLogger.log	-	Showing the stage	-	null
+2023-02-09 08:27:28.224 [INFO] src.MyLogger.log	-	Setting the scene to wordle	-	null
+2023-02-09 08:27:28.231 [INFO] src.MyLogger.log	-	Pushing wordle	-	null
+2023-02-09 08:27:28.233 [INFO] src.MyLogger.log	-	2	-	null
+2023-02-09 08:27:32.025 [INFO] src.MyLogger.log	-	Setting the scene to studentList	-	null
+2023-02-09 08:27:32.031 [INFO] src.MyLogger.log	-	Pushing studentList	-	null
+2023-02-09 08:27:32.034 [INFO] src.MyLogger.log	-	3	-	null
+2023-02-09 08:27:39.088 [INFO] src.MyLogger.log	-	Setting the scene to studentEdit	-	null
+2023-02-09 08:28:02.046 [INFO] src.MyLogger.log	-	Pushing studentEdit	-	null
+2023-02-09 08:28:02.049 [INFO] src.MyLogger.log	-	4	-	null
+2023-02-09 08:28:14.939 [INFO] src.MyLogger.init	-	Logger initialized	-	null
+2023-02-09 08:28:14.957 [INFO] src.MyLogger.log	-	Starting the application	-	null
+2023-02-09 08:28:15.089 [INFO] src.MyLogger.log	-	Constructing the scenes	-	null
+2023-02-09 08:28:15.091 [INFO] src.MyLogger.log	-	Constructing the login page	-	null
+2023-02-09 08:28:15.093 [INFO] src.MyLogger.log	-	Loading the login page from fxml	-	null
+2023-02-09 08:28:15.419 [INFO] src.MyLogger.log	-	Setting up the login success callback	-	null
+2023-02-09 08:28:15.422 [INFO] src.MyLogger.log	-	Setting up the login failure callback	-	null
+2023-02-09 08:28:15.492 [INFO] src.MyLogger.log	-	Adding the scene to the scene manager	-	null
+2023-02-09 08:28:15.493 [INFO] src.MyLogger.log	-	login	-	null
+2023-02-09 08:28:15.494 [INFO] src.MyLogger.log	-	Constructing the game page	-	null
+2023-02-09 08:28:15.578 [SEVERE] src.MyLogger.log	-	src/wordle/score.ser (No such file or directory)	-	java.io.FileNotFoundException: src/wordle/score.ser (No such file or directory)
+2023-02-09 08:28:15.589 [INFO] src.MyLogger.log	-	score	-	null
+2023-02-09 08:28:15.596 [INFO] src.MyLogger.log	-	Adding the scene to the scene manager	-	null
+2023-02-09 08:28:15.598 [INFO] src.MyLogger.log	-	wordle	-	null
+2023-02-09 08:28:15.599 [INFO] src.MyLogger.log	-	Constructing the student management	-	null
+2023-02-09 08:28:15.699 [INFO] src.MyLogger.log	-	studentList	-	null
+2023-02-09 08:28:21.761 [INFO] src.MyLogger.log	-	studentEdit	-	null
+2023-02-09 08:28:21.884 [INFO] src.MyLogger.log	-	studentRegister	-	null
+2023-02-09 08:28:21.885 [INFO] src.MyLogger.log	-	Adding Icon	-	null
+2023-02-09 08:28:21.886 [INFO] src.MyLogger.log	-	Loading icon	-	null
+2023-02-09 08:28:21.954 [INFO] src.MyLogger.log	-	Ctrl + X handler	-	null
+2023-02-09 08:28:21.956 [INFO] src.MyLogger.log	-	Setting the scene to login	-	null
+2023-02-09 08:28:21.957 [INFO] src.MyLogger.log	-	Pushing login	-	null
+2023-02-09 08:28:21.958 [INFO] src.MyLogger.log	-	0	-	null
+2023-02-09 08:28:21.961 [INFO] src.MyLogger.log	-	Showing the stage	-	null
+2023-02-09 08:30:04.176 [INFO] src.MyLogger.init	-	Logger initialized	-	null
+2023-02-09 08:30:04.192 [INFO] src.MyLogger.log	-	Starting the application	-	null
+2023-02-09 08:30:04.331 [INFO] src.MyLogger.log	-	Constructing the scenes	-	null
+2023-02-09 08:30:04.333 [INFO] src.MyLogger.log	-	Constructing the login page	-	null
+2023-02-09 08:30:04.335 [INFO] src.MyLogger.log	-	Loading the login page from fxml	-	null
+2023-02-09 08:30:04.634 [INFO] src.MyLogger.log	-	Setting up the login success callback	-	null
+2023-02-09 08:30:04.636 [INFO] src.MyLogger.log	-	Setting up the login failure callback	-	null
+2023-02-09 08:30:04.733 [INFO] src.MyLogger.log	-	Adding the scene to the scene manager	-	null
+2023-02-09 08:30:04.734 [INFO] src.MyLogger.log	-	login	-	null
+2023-02-09 08:30:04.735 [INFO] src.MyLogger.log	-	Constructing the game page	-	null
+2023-02-09 08:30:04.875 [SEVERE] src.MyLogger.log	-	src/wordle/score.ser (No such file or directory)	-	java.io.FileNotFoundException: src/wordle/score.ser (No such file or directory)
+2023-02-09 08:30:04.881 [INFO] src.MyLogger.log	-	score	-	null
+2023-02-09 08:30:04.886 [INFO] src.MyLogger.log	-	Adding the scene to the scene manager	-	null
+2023-02-09 08:30:04.887 [INFO] src.MyLogger.log	-	wordle	-	null
+2023-02-09 08:30:04.888 [INFO] src.MyLogger.log	-	Constructing the student management	-	null
+2023-02-09 08:30:05.022 [INFO] src.MyLogger.log	-	studentList	-	null
+2023-02-09 08:30:05.129 [INFO] src.MyLogger.log	-	studentEdit	-	null
+2023-02-09 08:30:05.223 [INFO] src.MyLogger.log	-	studentRegister	-	null
+2023-02-09 08:30:05.224 [INFO] src.MyLogger.log	-	Adding Icon	-	null
+2023-02-09 08:30:05.225 [INFO] src.MyLogger.log	-	Loading icon	-	null
+2023-02-09 08:30:05.287 [INFO] src.MyLogger.log	-	Ctrl + X handler	-	null
+2023-02-09 08:30:05.289 [INFO] src.MyLogger.log	-	Setting the scene to login	-	null
+2023-02-09 08:30:05.290 [INFO] src.MyLogger.log	-	Pushing login	-	null
+2023-02-09 08:30:05.291 [INFO] src.MyLogger.log	-	0	-	null
+2023-02-09 08:30:05.294 [INFO] src.MyLogger.log	-	Showing the stage	-	null
+2023-02-09 08:30:09.925 [INFO] src.MyLogger.log	-	Setting the scene to wordle	-	null
+2023-02-09 08:30:09.934 [INFO] src.MyLogger.log	-	Pushing wordle	-	null
+2023-02-09 08:30:09.936 [INFO] src.MyLogger.log	-	2	-	null
+2023-02-09 08:30:13.141 [INFO] src.MyLogger.log	-	Setting the scene to studentList	-	null
+2023-02-09 08:30:13.146 [INFO] src.MyLogger.log	-	Pushing studentList	-	null
+2023-02-09 08:30:13.149 [INFO] src.MyLogger.log	-	3	-	null
+2023-02-09 08:30:15.197 [INFO] src.MyLogger.log	-	Setting the scene to studentEdit	-	null
+2023-02-09 08:30:15.204 [INFO] src.MyLogger.log	-	Pushing studentEdit	-	null
+2023-02-09 08:30:15.206 [INFO] src.MyLogger.log	-	4	-	null
+2023-02-09 08:49:50.285 [INFO] src.MyLogger.init	-	Logger initialized	-	null
+2023-02-09 08:49:50.301 [INFO] src.MyLogger.log	-	Starting the application	-	null
+2023-02-09 08:49:50.416 [INFO] src.MyLogger.log	-	Constructing the scenes	-	null
+2023-02-09 08:49:50.418 [INFO] src.MyLogger.log	-	Constructing the login page	-	null
+2023-02-09 08:49:50.419 [INFO] src.MyLogger.log	-	Loading the login page from fxml	-	null
+2023-02-09 08:49:50.719 [INFO] src.MyLogger.log	-	Setting up the login success callback	-	null
+2023-02-09 08:49:50.721 [INFO] src.MyLogger.log	-	Setting up the login failure callback	-	null
+2023-02-09 08:49:50.793 [INFO] src.MyLogger.log	-	Adding the scene to the scene manager	-	null
+2023-02-09 08:49:50.794 [INFO] src.MyLogger.log	-	login	-	null
+2023-02-09 08:49:50.796 [INFO] src.MyLogger.log	-	Constructing the game page	-	null
+2023-02-09 08:49:50.895 [SEVERE] src.MyLogger.log	-	src/wordle/score.ser (No such file or directory)	-	java.io.FileNotFoundException: src/wordle/score.ser (No such file or directory)
+2023-02-09 08:49:50.903 [INFO] src.MyLogger.log	-	score	-	null
+2023-02-09 08:49:50.911 [INFO] src.MyLogger.log	-	Adding the scene to the scene manager	-	null
+2023-02-09 08:49:50.912 [INFO] src.MyLogger.log	-	wordle	-	null
+2023-02-09 08:49:50.912 [INFO] src.MyLogger.log	-	Constructing the student management	-	null
+2023-02-09 08:49:51.018 [INFO] src.MyLogger.log	-	studentList	-	null
+2023-02-09 08:49:51.145 [INFO] src.MyLogger.log	-	studentEdit	-	null
+2023-02-09 08:49:51.225 [INFO] src.MyLogger.log	-	studentRegister	-	null
+2023-02-09 08:49:51.228 [INFO] src.MyLogger.log	-	Adding Icon	-	null
+2023-02-09 08:49:51.230 [INFO] src.MyLogger.log	-	Loading icon	-	null
+2023-02-09 08:49:51.286 [INFO] src.MyLogger.log	-	Ctrl + X handler	-	null
+2023-02-09 08:49:51.288 [INFO] src.MyLogger.log	-	Setting the scene to login	-	null
+2023-02-09 08:49:51.290 [INFO] src.MyLogger.log	-	Pushing login	-	null
+2023-02-09 08:49:51.291 [INFO] src.MyLogger.log	-	0	-	null
+2023-02-09 08:49:51.293 [INFO] src.MyLogger.log	-	Showing the stage	-	null
+2023-02-09 08:49:58.627 [INFO] src.MyLogger.log	-	Setting the scene to wordle	-	null
+2023-02-09 08:49:58.633 [INFO] src.MyLogger.log	-	Pushing wordle	-	null
+2023-02-09 08:49:58.634 [INFO] src.MyLogger.log	-	2	-	null
+2023-02-09 08:50:04.382 [INFO] src.MyLogger.log	-	Setting the scene to studentList	-	null
+2023-02-09 08:50:04.387 [INFO] src.MyLogger.log	-	Pushing studentList	-	null
+2023-02-09 08:50:04.389 [INFO] src.MyLogger.log	-	3	-	null
+2023-02-09 08:50:08.405 [INFO] src.MyLogger.log	-	Setting the scene to studentEdit	-	null
+2023-02-09 08:50:08.413 [INFO] src.MyLogger.log	-	Pushing studentEdit	-	null
+2023-02-09 08:50:08.415 [INFO] src.MyLogger.log	-	4	-	null
+2023-02-09 08:51:32.569 [INFO] src.MyLogger.init	-	Logger initialized	-	null
+2023-02-09 08:51:32.583 [INFO] src.MyLogger.log	-	Starting the application	-	null
+2023-02-09 08:51:32.694 [INFO] src.MyLogger.log	-	Constructing the scenes	-	null
+2023-02-09 08:51:32.696 [INFO] src.MyLogger.log	-	Constructing the login page	-	null
+2023-02-09 08:51:32.697 [INFO] src.MyLogger.log	-	Loading the login page from fxml	-	null
+2023-02-09 08:51:33.096 [INFO] src.MyLogger.log	-	Setting up the login success callback	-	null
+2023-02-09 08:51:33.098 [INFO] src.MyLogger.log	-	Setting up the login failure callback	-	null
+2023-02-09 08:51:33.170 [INFO] src.MyLogger.log	-	Adding the scene to the scene manager	-	null
+2023-02-09 08:51:33.172 [INFO] src.MyLogger.log	-	login	-	null
+2023-02-09 08:51:33.173 [INFO] src.MyLogger.log	-	Constructing the game page	-	null
+2023-02-09 08:51:33.272 [SEVERE] src.MyLogger.log	-	src/wordle/score.ser (No such file or directory)	-	java.io.FileNotFoundException: src/wordle/score.ser (No such file or directory)
+2023-02-09 08:51:33.290 [INFO] src.MyLogger.log	-	score	-	null
+2023-02-09 08:51:33.297 [INFO] src.MyLogger.log	-	Adding the scene to the scene manager	-	null
+2023-02-09 08:51:33.298 [INFO] src.MyLogger.log	-	wordle	-	null
+2023-02-09 08:51:33.300 [INFO] src.MyLogger.log	-	Constructing the student management	-	null
+2023-02-09 08:51:43.060 [INFO] src.MyLogger.log	-	studentList	-	null
+2023-02-09 08:51:43.263 [INFO] src.MyLogger.log	-	studentEdit	-	null
+2023-02-09 08:51:43.341 [INFO] src.MyLogger.log	-	studentRegister	-	null
+2023-02-09 08:51:43.343 [INFO] src.MyLogger.log	-	Adding Icon	-	null
+2023-02-09 08:51:43.348 [INFO] src.MyLogger.log	-	Loading icon	-	null
+2023-02-09 08:51:43.417 [INFO] src.MyLogger.log	-	Ctrl + X handler	-	null
+2023-02-09 08:51:43.419 [INFO] src.MyLogger.log	-	Setting the scene to login	-	null
+2023-02-09 08:51:43.420 [INFO] src.MyLogger.log	-	Pushing login	-	null
+2023-02-09 08:51:43.421 [INFO] src.MyLogger.log	-	0	-	null
+2023-02-09 08:51:43.425 [INFO] src.MyLogger.log	-	Showing the stage	-	null
+2023-02-09 08:51:48.041 [INFO] src.MyLogger.log	-	Setting the scene to wordle	-	null
+2023-02-09 08:51:48.049 [INFO] src.MyLogger.log	-	Pushing wordle	-	null
+2023-02-09 08:51:48.052 [INFO] src.MyLogger.log	-	2	-	null
+2023-02-09 08:51:53.649 [INFO] src.MyLogger.log	-	Setting the scene to studentList	-	null
+2023-02-09 08:51:53.654 [INFO] src.MyLogger.log	-	Pushing studentList	-	null
+2023-02-09 08:51:53.655 [INFO] src.MyLogger.log	-	3	-	null
+2023-02-09 08:52:01.902 [INFO] src.MyLogger.log	-	Setting the scene to studentEdit	-	null
+2023-02-09 08:52:01.909 [INFO] src.MyLogger.log	-	Pushing studentEdit	-	null
+2023-02-09 08:52:01.913 [INFO] src.MyLogger.log	-	4	-	null
+2023-02-09 08:52:14.205 [INFO] src.MyLogger.log	-	Setting the scene to studentList	-	null
+2023-02-09 08:52:14.210 [INFO] src.MyLogger.log	-	Pushing studentList	-	null
+2023-02-09 08:52:14.211 [INFO] src.MyLogger.log	-	3	-	null
+2023-02-09 08:52:14.215 [INFO] src.MyLogger.log	-	Setting the scene to studentList	-	null
+2023-02-09 08:52:14.216 [INFO] src.MyLogger.log	-	Pushing studentList	-	null
+2023-02-09 08:52:14.218 [INFO] src.MyLogger.log	-	3	-	null
+2023-02-09 08:52:14.293 [INFO] src.MyLogger.log	-	Setting the scene to studentEdit	-	null
+2023-02-09 08:52:14.296 [INFO] src.MyLogger.log	-	Pushing studentEdit	-	null
+2023-02-09 08:52:14.297 [INFO] src.MyLogger.log	-	4	-	null
+2023-02-09 09:18:52.039 [INFO] src.MyLogger.init	-	Logger initialized	-	null
+2023-02-09 09:18:52.056 [INFO] src.MyLogger.log	-	Starting the application	-	null
+2023-02-09 09:18:52.177 [INFO] src.MyLogger.log	-	Constructing the scenes	-	null
+2023-02-09 09:18:52.179 [INFO] src.MyLogger.log	-	Constructing the login page	-	null
+2023-02-09 09:18:52.180 [INFO] src.MyLogger.log	-	Loading the login page from fxml	-	null
+2023-02-09 09:18:52.473 [INFO] src.MyLogger.log	-	Setting up the login success callback	-	null
+2023-02-09 09:18:52.475 [INFO] src.MyLogger.log	-	Setting up the login failure callback	-	null
+2023-02-09 09:18:52.536 [INFO] src.MyLogger.log	-	Adding the scene to the scene manager	-	null
+2023-02-09 09:18:52.538 [INFO] src.MyLogger.log	-	login	-	null
+2023-02-09 09:18:52.539 [INFO] src.MyLogger.log	-	Constructing the game page	-	null
+2023-02-09 09:18:52.627 [SEVERE] src.MyLogger.log	-	src/wordle/score.ser (No such file or directory)	-	java.io.FileNotFoundException: src/wordle/score.ser (No such file or directory)
+2023-02-09 09:18:52.641 [INFO] src.MyLogger.log	-	score	-	null
+2023-02-09 09:18:52.647 [INFO] src.MyLogger.log	-	Adding the scene to the scene manager	-	null
+2023-02-09 09:18:52.649 [INFO] src.MyLogger.log	-	wordle	-	null
+2023-02-09 09:18:52.651 [INFO] src.MyLogger.log	-	Constructing the student management	-	null
+2023-02-09 09:18:52.705 [SEVERE] src.MyLogger.log	-	src/student/student.ser (No such file or directory)	-	java.io.FileNotFoundException: src/student/student.ser (No such file or directory)
+2023-02-09 09:18:52.715 [SEVERE] src.MyLogger.log	-	src/student/student.ser (No such file or directory)	-	java.io.FileNotFoundException: src/student/student.ser (No such file or directory)
+2023-02-09 09:18:52.719 [INFO] src.MyLogger.log	-	studentList	-	null
+2023-02-09 09:18:52.819 [INFO] src.MyLogger.log	-	studentEdit	-	null
+2023-02-09 09:18:52.878 [INFO] src.MyLogger.log	-	studentRegister	-	null
+2023-02-09 09:18:52.880 [INFO] src.MyLogger.log	-	Adding Icon	-	null
+2023-02-09 09:18:52.881 [INFO] src.MyLogger.log	-	Loading icon	-	null
+2023-02-09 09:18:52.941 [INFO] src.MyLogger.log	-	Ctrl + X handler	-	null
+2023-02-09 09:18:52.942 [INFO] src.MyLogger.log	-	Setting the scene to login	-	null
+2023-02-09 09:18:52.944 [INFO] src.MyLogger.log	-	Pushing login	-	null
+2023-02-09 09:18:52.944 [INFO] src.MyLogger.log	-	0	-	null
+2023-02-09 09:18:52.946 [INFO] src.MyLogger.log	-	Showing the stage	-	null
+2023-02-09 09:18:59.691 [INFO] src.MyLogger.log	-	Setting the scene to wordle	-	null
+2023-02-09 09:18:59.696 [INFO] src.MyLogger.log	-	Pushing wordle	-	null
+2023-02-09 09:18:59.697 [INFO] src.MyLogger.log	-	2	-	null
+2023-02-09 09:19:03.726 [INFO] src.MyLogger.log	-	Setting the scene to studentRegister	-	null
+2023-02-09 09:19:03.728 [INFO] src.MyLogger.log	-	Pushing studentRegister	-	null
+2023-02-09 09:19:03.729 [INFO] src.MyLogger.log	-	5	-	null
+2023-02-09 09:20:45.025 [INFO] src.MyLogger.init	-	Logger initialized	-	null
+2023-02-09 09:20:45.040 [INFO] src.MyLogger.log	-	Starting the application	-	null
+2023-02-09 09:20:45.157 [INFO] src.MyLogger.log	-	Constructing the scenes	-	null
+2023-02-09 09:20:45.159 [INFO] src.MyLogger.log	-	Constructing the login page	-	null
+2023-02-09 09:20:45.160 [INFO] src.MyLogger.log	-	Loading the login page from fxml	-	null
+2023-02-09 09:20:45.438 [INFO] src.MyLogger.log	-	Setting up the login success callback	-	null
+2023-02-09 09:20:45.441 [INFO] src.MyLogger.log	-	Setting up the login failure callback	-	null
+2023-02-09 09:20:45.502 [INFO] src.MyLogger.log	-	Adding the scene to the scene manager	-	null
+2023-02-09 09:20:45.503 [INFO] src.MyLogger.log	-	login	-	null
+2023-02-09 09:20:45.504 [INFO] src.MyLogger.log	-	Constructing the game page	-	null
+2023-02-09 09:20:45.594 [SEVERE] src.MyLogger.log	-	src/wordle/score.ser (No such file or directory)	-	java.io.FileNotFoundException: src/wordle/score.ser (No such file or directory)
+2023-02-09 09:20:45.604 [INFO] src.MyLogger.log	-	score	-	null
+2023-02-09 09:20:45.613 [INFO] src.MyLogger.log	-	Adding the scene to the scene manager	-	null
+2023-02-09 09:20:45.617 [INFO] src.MyLogger.log	-	wordle	-	null
+2023-02-09 09:20:45.618 [INFO] src.MyLogger.log	-	Constructing the student management	-	null
+2023-02-09 09:20:45.670 [SEVERE] src.MyLogger.log	-	src/student/student.ser (No such file or directory)	-	java.io.FileNotFoundException: src/student/student.ser (No such file or directory)
+2023-02-09 09:20:45.681 [SEVERE] src.MyLogger.log	-	src/student/student.ser (No such file or directory)	-	java.io.FileNotFoundException: src/student/student.ser (No such file or directory)
+2023-02-09 09:20:45.689 [INFO] src.MyLogger.log	-	studentList	-	null
+2023-02-09 09:20:45.782 [INFO] src.MyLogger.log	-	studentEdit	-	null
+2023-02-09 09:20:45.823 [INFO] src.MyLogger.log	-	studentRegister	-	null
+2023-02-09 09:20:45.824 [INFO] src.MyLogger.log	-	Adding Icon	-	null
+2023-02-09 09:20:45.827 [INFO] src.MyLogger.log	-	Loading icon	-	null
+2023-02-09 09:20:45.885 [INFO] src.MyLogger.log	-	Ctrl + X handler	-	null
+2023-02-09 09:20:45.886 [INFO] src.MyLogger.log	-	Setting the scene to login	-	null
+2023-02-09 09:20:45.888 [INFO] src.MyLogger.log	-	Pushing login	-	null
+2023-02-09 09:20:45.890 [INFO] src.MyLogger.log	-	0	-	null
+2023-02-09 09:20:45.891 [INFO] src.MyLogger.log	-	Showing the stage	-	null
+2023-02-09 09:20:50.398 [INFO] src.MyLogger.log	-	Setting the scene to wordle	-	null
+2023-02-09 09:20:50.404 [INFO] src.MyLogger.log	-	Pushing wordle	-	null
+2023-02-09 09:20:50.405 [INFO] src.MyLogger.log	-	2	-	null
+2023-02-09 09:20:53.402 [INFO] src.MyLogger.log	-	Setting the scene to studentRegister	-	null
+2023-02-09 09:20:53.407 [INFO] src.MyLogger.log	-	Pushing studentRegister	-	null
+2023-02-09 09:20:53.409 [INFO] src.MyLogger.log	-	5	-	null
+2023-02-09 09:24:27.052 [INFO] src.MyLogger.init	-	Logger initialized	-	null
+2023-02-09 09:24:27.068 [INFO] src.MyLogger.log	-	Starting the application	-	null
+2023-02-09 09:24:27.180 [INFO] src.MyLogger.log	-	Constructing the scenes	-	null
+2023-02-09 09:24:27.181 [INFO] src.MyLogger.log	-	Constructing the login page	-	null
+2023-02-09 09:24:27.182 [INFO] src.MyLogger.log	-	Loading the login page from fxml	-	null
+2023-02-09 09:24:27.445 [INFO] src.MyLogger.log	-	Setting up the login success callback	-	null
+2023-02-09 09:24:27.447 [INFO] src.MyLogger.log	-	Setting up the login failure callback	-	null
+2023-02-09 09:24:27.516 [INFO] src.MyLogger.log	-	Adding the scene to the scene manager	-	null
+2023-02-09 09:24:27.517 [INFO] src.MyLogger.log	-	login	-	null
+2023-02-09 09:24:27.519 [INFO] src.MyLogger.log	-	Constructing the game page	-	null
+2023-02-09 09:24:27.613 [SEVERE] src.MyLogger.log	-	src/wordle/score.ser (No such file or directory)	-	java.io.FileNotFoundException: src/wordle/score.ser (No such file or directory)
+2023-02-09 09:24:27.623 [INFO] src.MyLogger.log	-	score	-	null
+2023-02-09 09:24:27.628 [INFO] src.MyLogger.log	-	Adding the scene to the scene manager	-	null
+2023-02-09 09:24:27.633 [INFO] src.MyLogger.log	-	wordle	-	null
+2023-02-09 09:24:27.637 [INFO] src.MyLogger.log	-	Constructing the student management	-	null
+2023-02-09 09:24:27.701 [SEVERE] src.MyLogger.log	-	src/student/student.ser (No such file or directory)	-	java.io.FileNotFoundException: src/student/student.ser (No such file or directory)
+2023-02-09 09:24:27.709 [SEVERE] src.MyLogger.log	-	src/student/student.ser (No such file or directory)	-	java.io.FileNotFoundException: src/student/student.ser (No such file or directory)
+2023-02-09 09:24:27.715 [INFO] src.MyLogger.log	-	studentList	-	null
+2023-02-09 09:24:27.798 [INFO] src.MyLogger.log	-	studentEdit	-	null
+2023-02-09 09:24:27.848 [INFO] src.MyLogger.log	-	studentRegister	-	null
+2023-02-09 09:24:27.849 [INFO] src.MyLogger.log	-	Adding Icon	-	null
+2023-02-09 09:24:27.850 [INFO] src.MyLogger.log	-	Loading icon	-	null
+2023-02-09 09:24:27.910 [INFO] src.MyLogger.log	-	Ctrl + X handler	-	null
+2023-02-09 09:24:27.911 [INFO] src.MyLogger.log	-	Setting the scene to login	-	null
+2023-02-09 09:24:27.912 [INFO] src.MyLogger.log	-	Pushing login	-	null
+2023-02-09 09:24:27.913 [INFO] src.MyLogger.log	-	0	-	null
+2023-02-09 09:24:27.914 [INFO] src.MyLogger.log	-	Showing the stage	-	null
+2023-02-09 09:24:32.601 [INFO] src.MyLogger.log	-	Setting the scene to wordle	-	null
+2023-02-09 09:24:32.608 [INFO] src.MyLogger.log	-	Pushing wordle	-	null
+2023-02-09 09:24:32.608 [INFO] src.MyLogger.log	-	2	-	null
+2023-02-09 09:24:36.625 [INFO] src.MyLogger.log	-	Setting the scene to studentRegister	-	null
+2023-02-09 09:24:36.630 [INFO] src.MyLogger.log	-	Pushing studentRegister	-	null
+2023-02-09 09:24:36.632 [INFO] src.MyLogger.log	-	5	-	null
+2023-02-09 09:24:55.857 [SEVERE] src.MyLogger.log	-	src/student/student.ser (No such file or directory)	-	java.io.FileNotFoundException: src/student/student.ser (No such file or directory)
+2023-02-09 09:24:55.918 [INFO] src.MyLogger.log	-	Setting the scene to studentList	-	null
+2023-02-09 09:24:55.920 [INFO] src.MyLogger.log	-	Pushing studentList	-	null
+2023-02-09 09:24:55.921 [INFO] src.MyLogger.log	-	3	-	null
+2023-02-09 09:24:55.923 [INFO] src.MyLogger.log	-	Setting the scene to studentList	-	null
+2023-02-09 09:24:55.923 [INFO] src.MyLogger.log	-	Pushing studentList	-	null
+2023-02-09 09:24:55.924 [INFO] src.MyLogger.log	-	3	-	null
+2023-02-09 09:25:14.864 [INFO] src.MyLogger.log	-	Setting the scene to studentEdit	-	null
+2023-02-09 09:25:14.869 [INFO] src.MyLogger.log	-	Pushing studentEdit	-	null
+2023-02-09 09:25:14.870 [INFO] src.MyLogger.log	-	4	-	null
+2023-02-09 09:26:55.084 [INFO] src.MyLogger.init	-	Logger initialized	-	null
+2023-02-09 09:26:55.103 [INFO] src.MyLogger.log	-	Starting the application	-	null
+2023-02-09 09:26:55.230 [INFO] src.MyLogger.log	-	Constructing the scenes	-	null
+2023-02-09 09:26:55.232 [INFO] src.MyLogger.log	-	Constructing the login page	-	null
+2023-02-09 09:26:55.234 [INFO] src.MyLogger.log	-	Loading the login page from fxml	-	null
+2023-02-09 09:26:55.552 [INFO] src.MyLogger.log	-	Setting up the login success callback	-	null
+2023-02-09 09:26:55.555 [INFO] src.MyLogger.log	-	Setting up the login failure callback	-	null
+2023-02-09 09:26:55.624 [INFO] src.MyLogger.log	-	Adding the scene to the scene manager	-	null
+2023-02-09 09:26:55.625 [INFO] src.MyLogger.log	-	login	-	null
+2023-02-09 09:26:55.626 [INFO] src.MyLogger.log	-	Constructing the game page	-	null
+2023-02-09 09:26:55.711 [SEVERE] src.MyLogger.log	-	src/wordle/score.ser (No such file or directory)	-	java.io.FileNotFoundException: src/wordle/score.ser (No such file or directory)
+2023-02-09 09:26:55.725 [INFO] src.MyLogger.log	-	score	-	null
+2023-02-09 09:26:55.738 [INFO] src.MyLogger.log	-	Adding the scene to the scene manager	-	null
+2023-02-09 09:26:55.740 [INFO] src.MyLogger.log	-	wordle	-	null
+2023-02-09 09:26:55.742 [INFO] src.MyLogger.log	-	Constructing the student management	-	null
+2023-02-09 09:26:55.829 [INFO] src.MyLogger.log	-	studentList	-	null
+2023-02-09 09:26:55.906 [INFO] src.MyLogger.log	-	studentEdit	-	null
+2023-02-09 09:26:55.950 [INFO] src.MyLogger.log	-	studentRegister	-	null
+2023-02-09 09:26:55.953 [INFO] src.MyLogger.log	-	Adding Icon	-	null
+2023-02-09 09:26:55.957 [INFO] src.MyLogger.log	-	Loading icon	-	null
+2023-02-09 09:26:56.013 [INFO] src.MyLogger.log	-	Ctrl + X handler	-	null
+2023-02-09 09:26:56.015 [INFO] src.MyLogger.log	-	Setting the scene to login	-	null
+2023-02-09 09:26:56.016 [INFO] src.MyLogger.log	-	Pushing login	-	null
+2023-02-09 09:26:56.017 [INFO] src.MyLogger.log	-	0	-	null
+2023-02-09 09:26:56.019 [INFO] src.MyLogger.log	-	Showing the stage	-	null
+2023-02-09 09:27:03.643 [INFO] src.MyLogger.log	-	Setting the scene to wordle	-	null
+2023-02-09 09:27:03.650 [INFO] src.MyLogger.log	-	Pushing wordle	-	null
+2023-02-09 09:27:03.651 [INFO] src.MyLogger.log	-	2	-	null
+2023-02-09 09:27:07.764 [INFO] src.MyLogger.log	-	Setting the scene to studentRegister	-	null
+2023-02-09 09:27:07.768 [INFO] src.MyLogger.log	-	Pushing studentRegister	-	null
+2023-02-09 09:27:07.771 [INFO] src.MyLogger.log	-	5	-	null
+2023-02-09 09:33:36.725 [INFO] src.MyLogger.init	-	Logger initialized	-	null
+2023-02-09 09:33:36.741 [INFO] src.MyLogger.log	-	Starting the application	-	null
+2023-02-09 09:33:36.869 [INFO] src.MyLogger.log	-	Constructing the scenes	-	null
+2023-02-09 09:33:36.871 [INFO] src.MyLogger.log	-	Constructing the login page	-	null
+2023-02-09 09:33:36.872 [INFO] src.MyLogger.log	-	Loading the login page from fxml	-	null
+2023-02-09 09:33:37.133 [INFO] src.MyLogger.log	-	Setting up the login success callback	-	null
+2023-02-09 09:33:37.135 [INFO] src.MyLogger.log	-	Setting up the login failure callback	-	null
+2023-02-09 09:33:37.208 [INFO] src.MyLogger.log	-	Adding the scene to the scene manager	-	null
+2023-02-09 09:33:37.209 [INFO] src.MyLogger.log	-	login	-	null
+2023-02-09 09:33:37.210 [INFO] src.MyLogger.log	-	Constructing the game page	-	null
+2023-02-09 09:33:37.281 [SEVERE] src.MyLogger.log	-	src/wordle/score.ser (No such file or directory)	-	java.io.FileNotFoundException: src/wordle/score.ser (No such file or directory)
+2023-02-09 09:33:37.287 [INFO] src.MyLogger.log	-	score	-	null
+2023-02-09 09:33:37.292 [INFO] src.MyLogger.log	-	Adding the scene to the scene manager	-	null
+2023-02-09 09:33:37.293 [INFO] src.MyLogger.log	-	wordle	-	null
+2023-02-09 09:33:37.293 [INFO] src.MyLogger.log	-	Constructing the student management	-	null
+2023-02-09 09:33:37.409 [INFO] src.MyLogger.log	-	studentList	-	null
+2023-02-09 09:33:37.542 [INFO] src.MyLogger.log	-	studentEdit	-	null
+2023-02-09 09:33:37.592 [INFO] src.MyLogger.log	-	studentRegister	-	null
+2023-02-09 09:33:37.595 [INFO] src.MyLogger.log	-	Adding Icon	-	null
+2023-02-09 09:33:37.598 [INFO] src.MyLogger.log	-	Loading icon	-	null
+2023-02-09 09:33:37.659 [INFO] src.MyLogger.log	-	Ctrl + X handler	-	null
+2023-02-09 09:33:37.660 [INFO] src.MyLogger.log	-	Setting the scene to login	-	null
+2023-02-09 09:33:37.664 [INFO] src.MyLogger.log	-	Pushing login	-	null
+2023-02-09 09:33:37.666 [INFO] src.MyLogger.log	-	0	-	null
+2023-02-09 09:33:37.668 [INFO] src.MyLogger.log	-	Showing the stage	-	null
+2023-02-09 09:33:42.992 [INFO] src.MyLogger.log	-	Setting the scene to wordle	-	null
+2023-02-09 09:33:42.999 [INFO] src.MyLogger.log	-	Pushing wordle	-	null
+2023-02-09 09:33:43.002 [INFO] src.MyLogger.log	-	2	-	null
+2023-02-09 09:33:53.210 [INFO] src.MyLogger.log	-	Setting the scene to studentRegister	-	null
+2023-02-09 09:33:53.212 [INFO] src.MyLogger.log	-	Pushing studentRegister	-	null
+2023-02-09 09:33:53.213 [INFO] src.MyLogger.log	-	5	-	null
+2023-02-09 09:34:17.226 [INFO] src.MyLogger.log	-	Setting the scene to studentList	-	null
+2023-02-09 09:34:17.231 [INFO] src.MyLogger.log	-	Pushing studentList	-	null
+2023-02-09 09:34:17.233 [INFO] src.MyLogger.log	-	3	-	null
+2023-02-09 09:34:17.237 [INFO] src.MyLogger.log	-	Setting the scene to studentList	-	null
+2023-02-09 09:34:17.238 [INFO] src.MyLogger.log	-	Pushing studentList	-	null
+2023-02-09 09:34:17.239 [INFO] src.MyLogger.log	-	3	-	null
+2023-02-09 09:34:29.233 [INFO] src.MyLogger.log	-	Setting the scene to studentEdit	-	null
+2023-02-09 09:34:29.236 [INFO] src.MyLogger.log	-	Pushing studentEdit	-	null
+2023-02-09 09:34:29.240 [INFO] src.MyLogger.log	-	4	-	null
+2023-02-09 09:34:40.523 [INFO] src.MyLogger.log	-	Setting the scene to studentList	-	null
+2023-02-09 09:34:40.527 [INFO] src.MyLogger.log	-	Pushing studentList	-	null
+2023-02-09 09:34:40.529 [INFO] src.MyLogger.log	-	3	-	null
+2023-02-09 09:34:40.537 [INFO] src.MyLogger.log	-	Setting the scene to studentList	-	null
+2023-02-09 09:34:40.539 [INFO] src.MyLogger.log	-	Pushing studentList	-	null
+2023-02-09 09:34:40.540 [INFO] src.MyLogger.log	-	3	-	null
+2023-02-09 09:35:20.107 [INFO] src.MyLogger.init	-	Logger initialized	-	null
+2023-02-09 09:35:20.120 [INFO] src.MyLogger.log	-	Starting the application	-	null
+2023-02-09 09:35:20.226 [INFO] src.MyLogger.log	-	Constructing the scenes	-	null
+2023-02-09 09:35:20.228 [INFO] src.MyLogger.log	-	Constructing the login page	-	null
+2023-02-09 09:35:20.229 [INFO] src.MyLogger.log	-	Loading the login page from fxml	-	null
+2023-02-09 09:35:20.493 [INFO] src.MyLogger.log	-	Setting up the login success callback	-	null
+2023-02-09 09:35:20.495 [INFO] src.MyLogger.log	-	Setting up the login failure callback	-	null
+2023-02-09 09:35:20.561 [INFO] src.MyLogger.log	-	Adding the scene to the scene manager	-	null
+2023-02-09 09:35:20.562 [INFO] src.MyLogger.log	-	login	-	null
+2023-02-09 09:35:20.563 [INFO] src.MyLogger.log	-	Constructing the game page	-	null
+2023-02-09 09:35:20.653 [SEVERE] src.MyLogger.log	-	src/wordle/score.ser (No such file or directory)	-	java.io.FileNotFoundException: src/wordle/score.ser (No such file or directory)
+2023-02-09 09:35:20.660 [INFO] src.MyLogger.log	-	score	-	null
+2023-02-09 09:35:20.667 [INFO] src.MyLogger.log	-	Adding the scene to the scene manager	-	null
+2023-02-09 09:35:20.668 [INFO] src.MyLogger.log	-	wordle	-	null
+2023-02-09 09:35:20.669 [INFO] src.MyLogger.log	-	Constructing the student management	-	null
+2023-02-09 09:35:20.812 [INFO] src.MyLogger.log	-	studentList	-	null
+2023-02-09 09:35:20.899 [INFO] src.MyLogger.log	-	studentEdit	-	null
+2023-02-09 09:35:20.952 [INFO] src.MyLogger.log	-	studentRegister	-	null
+2023-02-09 09:35:20.953 [INFO] src.MyLogger.log	-	Adding Icon	-	null
+2023-02-09 09:35:20.955 [INFO] src.MyLogger.log	-	Loading icon	-	null
+2023-02-09 09:35:21.017 [INFO] src.MyLogger.log	-	Ctrl + X handler	-	null
+2023-02-09 09:35:21.018 [INFO] src.MyLogger.log	-	Setting the scene to login	-	null
+2023-02-09 09:35:21.019 [INFO] src.MyLogger.log	-	Pushing login	-	null
+2023-02-09 09:35:21.020 [INFO] src.MyLogger.log	-	0	-	null
+2023-02-09 09:35:21.024 [INFO] src.MyLogger.log	-	Showing the stage	-	null
+2023-02-09 09:35:28.626 [INFO] src.MyLogger.log	-	Setting the scene to wordle	-	null
+2023-02-09 09:35:28.632 [INFO] src.MyLogger.log	-	Pushing wordle	-	null
+2023-02-09 09:35:28.634 [INFO] src.MyLogger.log	-	2	-	null
+2023-02-09 09:35:32.783 [INFO] src.MyLogger.log	-	Setting the scene to studentRegister	-	null
+2023-02-09 09:35:32.789 [INFO] src.MyLogger.log	-	Pushing studentRegister	-	null
+2023-02-09 09:35:32.794 [INFO] src.MyLogger.log	-	5	-	null
+2023-02-09 09:35:34.871 [INFO] src.MyLogger.log	-	Setting the scene to studentList	-	null
+2023-02-09 09:35:34.872 [INFO] src.MyLogger.log	-	Pushing studentList	-	null
+2023-02-09 09:35:34.873 [INFO] src.MyLogger.log	-	3	-	null
+2023-02-09 09:35:41.335 [INFO] src.MyLogger.log	-	Setting the scene to studentRegister	-	null
+2023-02-09 09:35:41.339 [INFO] src.MyLogger.log	-	Pushing studentRegister	-	null
+2023-02-09 09:35:41.342 [INFO] src.MyLogger.log	-	5	-	null
+2023-02-09 09:36:06.720 [INFO] src.MyLogger.log	-	Setting the scene to studentList	-	null
+2023-02-09 09:36:06.724 [INFO] src.MyLogger.log	-	Pushing studentList	-	null
+2023-02-09 09:36:06.726 [INFO] src.MyLogger.log	-	3	-	null
+2023-02-09 09:36:06.730 [INFO] src.MyLogger.log	-	Setting the scene to studentList	-	null
+2023-02-09 09:36:06.733 [INFO] src.MyLogger.log	-	Pushing studentList	-	null
+2023-02-09 09:36:06.734 [INFO] src.MyLogger.log	-	3	-	null
+2023-02-09 09:39:30.771 [INFO] src.MyLogger.init	-	Logger initialized	-	null
+2023-02-09 09:39:30.784 [INFO] src.MyLogger.log	-	Starting the application	-	null
+2023-02-09 09:39:30.890 [INFO] src.MyLogger.log	-	Constructing the scenes	-	null
+2023-02-09 09:39:30.892 [INFO] src.MyLogger.log	-	Constructing the login page	-	null
+2023-02-09 09:39:30.894 [INFO] src.MyLogger.log	-	Loading the login page from fxml	-	null
+2023-02-09 09:39:31.153 [INFO] src.MyLogger.log	-	Setting up the login success callback	-	null
+2023-02-09 09:39:31.155 [INFO] src.MyLogger.log	-	Setting up the login failure callback	-	null
+2023-02-09 09:39:31.219 [INFO] src.MyLogger.log	-	Adding the scene to the scene manager	-	null
+2023-02-09 09:39:31.219 [INFO] src.MyLogger.log	-	login	-	null
+2023-02-09 09:39:31.221 [INFO] src.MyLogger.log	-	Constructing the game page	-	null
+2023-02-09 09:39:31.307 [SEVERE] src.MyLogger.log	-	src/wordle/score.ser (No such file or directory)	-	java.io.FileNotFoundException: src/wordle/score.ser (No such file or directory)
+2023-02-09 09:39:31.318 [INFO] src.MyLogger.log	-	score	-	null
+2023-02-09 09:39:31.324 [INFO] src.MyLogger.log	-	Adding the scene to the scene manager	-	null
+2023-02-09 09:39:31.326 [INFO] src.MyLogger.log	-	wordle	-	null
+2023-02-09 09:39:31.329 [INFO] src.MyLogger.log	-	Constructing the student management	-	null
+2023-02-09 09:39:31.490 [INFO] src.MyLogger.log	-	studentList	-	null
+2023-02-09 09:39:31.605 [INFO] src.MyLogger.log	-	studentEdit	-	null
+2023-02-09 09:39:31.651 [INFO] src.MyLogger.log	-	studentRegister	-	null
+2023-02-09 09:39:31.652 [INFO] src.MyLogger.log	-	Adding Icon	-	null
+2023-02-09 09:39:31.652 [INFO] src.MyLogger.log	-	Loading icon	-	null
+2023-02-09 09:39:31.711 [INFO] src.MyLogger.log	-	Ctrl + X handler	-	null
+2023-02-09 09:39:31.713 [INFO] src.MyLogger.log	-	Setting the scene to login	-	null
+2023-02-09 09:39:31.715 [INFO] src.MyLogger.log	-	Pushing login	-	null
+2023-02-09 09:39:31.716 [INFO] src.MyLogger.log	-	0	-	null
+2023-02-09 09:39:31.717 [INFO] src.MyLogger.log	-	Showing the stage	-	null
+2023-02-09 09:40:31.241 [INFO] src.MyLogger.init	-	Logger initialized	-	null
+2023-02-09 09:40:31.256 [INFO] src.MyLogger.log	-	Starting the application	-	null
+2023-02-09 09:40:31.365 [INFO] src.MyLogger.log	-	Constructing the scenes	-	null
+2023-02-09 09:40:31.366 [INFO] src.MyLogger.log	-	Constructing the login page	-	null
+2023-02-09 09:40:31.368 [INFO] src.MyLogger.log	-	Loading the login page from fxml	-	null
+2023-02-09 09:40:31.630 [INFO] src.MyLogger.log	-	Setting up the login success callback	-	null
+2023-02-09 09:40:31.632 [INFO] src.MyLogger.log	-	Setting up the login failure callback	-	null
+2023-02-09 09:40:31.692 [INFO] src.MyLogger.log	-	Adding the scene to the scene manager	-	null
+2023-02-09 09:40:31.692 [INFO] src.MyLogger.log	-	login	-	null
+2023-02-09 09:40:31.693 [INFO] src.MyLogger.log	-	Constructing the game page	-	null
+2023-02-09 09:40:31.765 [SEVERE] src.MyLogger.log	-	src/wordle/score.ser (No such file or directory)	-	java.io.FileNotFoundException: src/wordle/score.ser (No such file or directory)
+2023-02-09 09:40:31.775 [INFO] src.MyLogger.log	-	score	-	null
+2023-02-09 09:40:31.779 [INFO] src.MyLogger.log	-	Adding the scene to the scene manager	-	null
+2023-02-09 09:40:31.782 [INFO] src.MyLogger.log	-	wordle	-	null
+2023-02-09 09:40:31.785 [INFO] src.MyLogger.log	-	Constructing the student management	-	null
+2023-02-09 09:40:31.885 [INFO] src.MyLogger.log	-	studentList	-	null
+2023-02-09 09:40:31.962 [INFO] src.MyLogger.log	-	studentEdit	-	null
+2023-02-09 09:40:32.005 [INFO] src.MyLogger.log	-	studentRegister	-	null
+2023-02-09 09:40:32.006 [INFO] src.MyLogger.log	-	Adding Icon	-	null
+2023-02-09 09:40:32.007 [INFO] src.MyLogger.log	-	Loading icon	-	null
+2023-02-09 09:40:32.063 [INFO] src.MyLogger.log	-	Ctrl + X handler	-	null
+2023-02-09 09:40:32.065 [INFO] src.MyLogger.log	-	Setting the scene to login	-	null
+2023-02-09 09:40:32.069 [INFO] src.MyLogger.log	-	Pushing login	-	null
+2023-02-09 09:40:32.070 [INFO] src.MyLogger.log	-	0	-	null
+2023-02-09 09:40:32.072 [INFO] src.MyLogger.log	-	Showing the stage	-	null
+2023-02-09 09:40:36.734 [INFO] src.MyLogger.log	-	Setting the scene to wordle	-	null
+2023-02-09 09:40:36.739 [INFO] src.MyLogger.log	-	Pushing wordle	-	null
+2023-02-09 09:40:36.740 [INFO] src.MyLogger.log	-	2	-	null
+2023-02-09 09:40:39.782 [INFO] src.MyLogger.log	-	Setting the scene to studentRegister	-	null
+2023-02-09 09:40:39.788 [INFO] src.MyLogger.log	-	Pushing studentRegister	-	null
+2023-02-09 09:40:39.790 [INFO] src.MyLogger.log	-	5	-	null
+2023-02-09 09:40:57.938 [INFO] src.MyLogger.log	-	Setting the scene to studentList	-	null
+2023-02-09 09:41:07.176 [INFO] src.MyLogger.log	-	Pushing studentList	-	null
+2023-02-09 09:41:07.179 [INFO] src.MyLogger.log	-	3	-	null
+2023-02-09 09:41:07.182 [INFO] src.MyLogger.log	-	Setting the scene to studentList	-	null
+2023-02-09 09:41:08.789 [INFO] src.MyLogger.log	-	Pushing studentList	-	null
+2023-02-09 09:41:08.792 [INFO] src.MyLogger.log	-	3	-	null
+2023-02-09 09:42:13.445 [INFO] src.MyLogger.init	-	Logger initialized	-	null
+2023-02-09 09:42:13.459 [INFO] src.MyLogger.log	-	Starting the application	-	null
+2023-02-09 09:42:13.564 [INFO] src.MyLogger.log	-	Constructing the scenes	-	null
+2023-02-09 09:42:13.565 [INFO] src.MyLogger.log	-	Constructing the login page	-	null
+2023-02-09 09:42:13.566 [INFO] src.MyLogger.log	-	Loading the login page from fxml	-	null
+2023-02-09 09:42:13.829 [INFO] src.MyLogger.log	-	Setting up the login success callback	-	null
+2023-02-09 09:42:13.831 [INFO] src.MyLogger.log	-	Setting up the login failure callback	-	null
+2023-02-09 09:42:13.898 [INFO] src.MyLogger.log	-	Adding the scene to the scene manager	-	null
+2023-02-09 09:42:13.899 [INFO] src.MyLogger.log	-	login	-	null
+2023-02-09 09:42:13.901 [INFO] src.MyLogger.log	-	Constructing the game page	-	null
+2023-02-09 09:42:14.025 [SEVERE] src.MyLogger.log	-	src/wordle/score.ser (No such file or directory)	-	java.io.FileNotFoundException: src/wordle/score.ser (No such file or directory)
+2023-02-09 09:42:14.030 [INFO] src.MyLogger.log	-	score	-	null
+2023-02-09 09:42:14.037 [INFO] src.MyLogger.log	-	Adding the scene to the scene manager	-	null
+2023-02-09 09:42:14.037 [INFO] src.MyLogger.log	-	wordle	-	null
+2023-02-09 09:42:14.038 [INFO] src.MyLogger.log	-	Constructing the student management	-	null
+2023-02-09 09:42:14.248 [INFO] src.MyLogger.log	-	studentList	-	null
+2023-02-09 09:42:14.331 [INFO] src.MyLogger.log	-	studentEdit	-	null
+2023-02-09 09:42:14.380 [INFO] src.MyLogger.log	-	studentRegister	-	null
+2023-02-09 09:42:14.381 [INFO] src.MyLogger.log	-	Adding Icon	-	null
+2023-02-09 09:42:14.382 [INFO] src.MyLogger.log	-	Loading icon	-	null
+2023-02-09 09:42:14.451 [INFO] src.MyLogger.log	-	Ctrl + X handler	-	null
+2023-02-09 09:42:14.454 [INFO] src.MyLogger.log	-	Setting the scene to login	-	null
+2023-02-09 09:42:14.458 [INFO] src.MyLogger.log	-	Pushing login	-	null
+2023-02-09 09:42:14.459 [INFO] src.MyLogger.log	-	0	-	null
+2023-02-09 09:42:14.461 [INFO] src.MyLogger.log	-	Showing the stage	-	null
+2023-02-09 09:42:19.158 [INFO] src.MyLogger.log	-	Setting the scene to wordle	-	null
+2023-02-09 09:42:19.164 [INFO] src.MyLogger.log	-	Pushing wordle	-	null
+2023-02-09 09:42:19.165 [INFO] src.MyLogger.log	-	2	-	null
+2023-02-09 09:42:22.744 [INFO] src.MyLogger.log	-	Setting the scene to studentRegister	-	null
+2023-02-09 09:42:22.749 [INFO] src.MyLogger.log	-	Pushing studentRegister	-	null
+2023-02-09 09:42:22.752 [INFO] src.MyLogger.log	-	5	-	null
+2023-02-09 09:42:25.416 [INFO] src.MyLogger.log	-	Setting the scene to studentList	-	null
+2023-02-09 09:42:25.421 [INFO] src.MyLogger.log	-	Pushing studentList	-	null
+2023-02-09 09:42:25.423 [INFO] src.MyLogger.log	-	3	-	null
+2023-02-09 09:42:36.888 [INFO] src.MyLogger.log	-	Setting the scene to studentEdit	-	null
+2023-02-09 09:42:36.895 [INFO] src.MyLogger.log	-	Pushing studentEdit	-	null
+2023-02-09 09:42:36.896 [INFO] src.MyLogger.log	-	4	-	null
+2023-02-09 09:42:50.816 [INFO] src.MyLogger.log	-	Setting the scene to studentList	-	null
+2023-02-09 09:42:52.551 [INFO] src.MyLogger.log	-	Pushing studentList	-	null
+2023-02-09 09:42:52.554 [INFO] src.MyLogger.log	-	3	-	null
+2023-02-09 09:42:52.563 [INFO] src.MyLogger.log	-	Setting the scene to studentList	-	null
+2023-02-09 09:42:53.309 [INFO] src.MyLogger.log	-	Pushing studentList	-	null
+2023-02-09 09:42:53.311 [INFO] src.MyLogger.log	-	3	-	null
+2023-02-09 09:42:57.079 [INFO] src.MyLogger.log	-	Setting the scene to studentEdit	-	null
+2023-02-09 09:42:57.097 [INFO] src.MyLogger.log	-	Pushing studentEdit	-	null
+2023-02-09 09:42:57.099 [INFO] src.MyLogger.log	-	4	-	null
+2023-02-09 09:43:08.279 [INFO] src.MyLogger.log	-	Setting the scene to studentList	-	null
+2023-02-09 09:43:09.485 [INFO] src.MyLogger.log	-	Pushing studentList	-	null
+2023-02-09 09:43:09.487 [INFO] src.MyLogger.log	-	3	-	null
+2023-02-09 09:43:09.497 [INFO] src.MyLogger.log	-	Setting the scene to studentList	-	null
+2023-02-09 09:43:10.691 [INFO] src.MyLogger.log	-	Pushing studentList	-	null
+2023-02-09 09:43:10.694 [INFO] src.MyLogger.log	-	3	-	null
+2023-02-09 09:43:17.878 [INFO] src.MyLogger.log	-	Setting the scene to studentEdit	-	null
+2023-02-09 09:43:17.887 [INFO] src.MyLogger.log	-	Pushing studentEdit	-	null
+2023-02-09 09:43:17.887 [INFO] src.MyLogger.log	-	4	-	null
+2023-02-09 09:45:21.696 [INFO] src.MyLogger.init	-	Logger initialized	-	null
+2023-02-09 09:45:21.713 [INFO] src.MyLogger.log	-	Starting the application	-	null
+2023-02-09 09:45:21.830 [INFO] src.MyLogger.log	-	Constructing the scenes	-	null
+2023-02-09 09:45:21.831 [INFO] src.MyLogger.log	-	Constructing the login page	-	null
+2023-02-09 09:45:21.832 [INFO] src.MyLogger.log	-	Loading the login page from fxml	-	null
+2023-02-09 09:45:22.133 [INFO] src.MyLogger.log	-	Setting up the login success callback	-	null
+2023-02-09 09:45:22.135 [INFO] src.MyLogger.log	-	Setting up the login failure callback	-	null
+2023-02-09 09:45:22.197 [INFO] src.MyLogger.log	-	Adding the scene to the scene manager	-	null
+2023-02-09 09:45:22.198 [INFO] src.MyLogger.log	-	login	-	null
+2023-02-09 09:45:22.199 [INFO] src.MyLogger.log	-	Constructing the game page	-	null
+2023-02-09 09:45:22.275 [SEVERE] src.MyLogger.log	-	src/wordle/score.ser (No such file or directory)	-	java.io.FileNotFoundException: src/wordle/score.ser (No such file or directory)
+2023-02-09 09:45:22.293 [INFO] src.MyLogger.log	-	score	-	null
+2023-02-09 09:45:22.299 [INFO] src.MyLogger.log	-	Adding the scene to the scene manager	-	null
+2023-02-09 09:45:22.300 [INFO] src.MyLogger.log	-	wordle	-	null
+2023-02-09 09:45:22.302 [INFO] src.MyLogger.log	-	Constructing the student management	-	null
+2023-02-09 09:45:22.403 [INFO] src.MyLogger.log	-	studentList	-	null
+2023-02-09 09:45:22.488 [INFO] src.MyLogger.log	-	studentEdit	-	null
+2023-02-09 09:45:22.537 [INFO] src.MyLogger.log	-	studentRegister	-	null
+2023-02-09 09:45:22.540 [INFO] src.MyLogger.log	-	Adding Icon	-	null
+2023-02-09 09:45:22.544 [INFO] src.MyLogger.log	-	Loading icon	-	null
+2023-02-09 09:45:22.606 [INFO] src.MyLogger.log	-	Ctrl + X handler	-	null
+2023-02-09 09:45:22.608 [INFO] src.MyLogger.log	-	Setting the scene to login	-	null
+2023-02-09 09:45:22.609 [INFO] src.MyLogger.log	-	Pushing login	-	null
+2023-02-09 09:45:22.609 [INFO] src.MyLogger.log	-	0	-	null
+2023-02-09 09:45:22.611 [INFO] src.MyLogger.log	-	Showing the stage	-	null
+2023-02-09 09:45:29.861 [INFO] src.MyLogger.log	-	Setting the scene to wordle	-	null
+2023-02-09 09:45:29.866 [INFO] src.MyLogger.log	-	Pushing wordle	-	null
+2023-02-09 09:45:29.867 [INFO] src.MyLogger.log	-	2	-	null
+2023-02-09 09:45:34.236 [INFO] src.MyLogger.log	-	Setting the scene to studentList	-	null
+2023-02-09 09:45:34.241 [INFO] src.MyLogger.log	-	Pushing studentList	-	null
+2023-02-09 09:45:34.243 [INFO] src.MyLogger.log	-	3	-	null
+2023-02-09 09:45:47.188 [INFO] src.MyLogger.log	-	Setting the scene to studentEdit	-	null
+2023-02-09 09:45:47.193 [INFO] src.MyLogger.log	-	Pushing studentEdit	-	null
+2023-02-09 09:45:47.195 [INFO] src.MyLogger.log	-	4	-	null
+2023-02-09 09:46:34.501 [INFO] src.MyLogger.init	-	Logger initialized	-	null
+2023-02-09 09:46:34.514 [INFO] src.MyLogger.log	-	Starting the application	-	null
+2023-02-09 09:46:34.620 [INFO] src.MyLogger.log	-	Constructing the scenes	-	null
+2023-02-09 09:46:34.621 [INFO] src.MyLogger.log	-	Constructing the login page	-	null
+2023-02-09 09:46:34.623 [INFO] src.MyLogger.log	-	Loading the login page from fxml	-	null
+2023-02-09 09:46:34.878 [INFO] src.MyLogger.log	-	Setting up the login success callback	-	null
+2023-02-09 09:46:34.880 [INFO] src.MyLogger.log	-	Setting up the login failure callback	-	null
+2023-02-09 09:46:34.941 [INFO] src.MyLogger.log	-	Adding the scene to the scene manager	-	null
+2023-02-09 09:46:34.942 [INFO] src.MyLogger.log	-	login	-	null
+2023-02-09 09:46:34.943 [INFO] src.MyLogger.log	-	Constructing the game page	-	null
+2023-02-09 09:46:35.022 [SEVERE] src.MyLogger.log	-	src/wordle/score.ser (No such file or directory)	-	java.io.FileNotFoundException: src/wordle/score.ser (No such file or directory)
+2023-02-09 09:46:35.033 [INFO] src.MyLogger.log	-	score	-	null
+2023-02-09 09:46:35.040 [INFO] src.MyLogger.log	-	Adding the scene to the scene manager	-	null
+2023-02-09 09:46:35.041 [INFO] src.MyLogger.log	-	wordle	-	null
+2023-02-09 09:46:35.042 [INFO] src.MyLogger.log	-	Constructing the student management	-	null
+2023-02-09 09:46:35.151 [INFO] src.MyLogger.log	-	studentList	-	null
+2023-02-09 09:46:35.225 [INFO] src.MyLogger.log	-	studentEdit	-	null
+2023-02-09 09:46:35.279 [INFO] src.MyLogger.log	-	studentRegister	-	null
+2023-02-09 09:46:35.282 [INFO] src.MyLogger.log	-	Adding Icon	-	null
+2023-02-09 09:46:35.285 [INFO] src.MyLogger.log	-	Loading icon	-	null
+2023-02-09 09:46:35.341 [INFO] src.MyLogger.log	-	Ctrl + X handler	-	null
+2023-02-09 09:46:35.343 [INFO] src.MyLogger.log	-	Setting the scene to login	-	null
+2023-02-09 09:46:35.344 [INFO] src.MyLogger.log	-	Pushing login	-	null
+2023-02-09 09:46:35.345 [INFO] src.MyLogger.log	-	0	-	null
+2023-02-09 09:46:35.349 [INFO] src.MyLogger.log	-	Showing the stage	-	null
+2023-02-09 09:46:40.402 [INFO] src.MyLogger.log	-	Setting the scene to wordle	-	null
+2023-02-09 09:46:40.410 [INFO] src.MyLogger.log	-	Pushing wordle	-	null
+2023-02-09 09:46:40.412 [INFO] src.MyLogger.log	-	2	-	null
+2023-02-09 09:46:44.333 [INFO] src.MyLogger.log	-	Setting the scene to studentList	-	null
+2023-02-09 09:46:44.338 [INFO] src.MyLogger.log	-	Pushing studentList	-	null
+2023-02-09 09:46:44.341 [INFO] src.MyLogger.log	-	3	-	null
+2023-02-09 09:46:47.251 [INFO] src.MyLogger.log	-	Setting the scene to studentEdit	-	null
+2023-02-09 09:46:47.257 [INFO] src.MyLogger.log	-	Pushing studentEdit	-	null
+2023-02-09 09:46:47.259 [INFO] src.MyLogger.log	-	4	-	null
+2023-02-09 09:46:49.966 [INFO] src.MyLogger.log	-	Setting the scene to studentList	-	null
+2023-02-09 09:46:51.467 [INFO] src.MyLogger.log	-	Pushing studentList	-	null
+2023-02-09 09:46:51.470 [INFO] src.MyLogger.log	-	3	-	null
+2023-02-09 09:46:51.487 [INFO] src.MyLogger.log	-	Setting the scene to studentList	-	null
+2023-02-09 09:46:52.496 [INFO] src.MyLogger.log	-	Pushing studentList	-	null
+2023-02-09 09:46:52.500 [INFO] src.MyLogger.log	-	3	-	null
+2023-02-09 09:46:56.235 [INFO] src.MyLogger.log	-	Setting the scene to studentEdit	-	null
+2023-02-09 09:46:56.246 [INFO] src.MyLogger.log	-	Pushing studentEdit	-	null
+2023-02-09 09:46:56.248 [INFO] src.MyLogger.log	-	4	-	null
+2023-02-09 09:47:00.995 [INFO] src.MyLogger.log	-	Setting the scene to studentList	-	null
+2023-02-09 09:47:02.489 [INFO] src.MyLogger.log	-	Pushing studentList	-	null
+2023-02-09 09:47:02.492 [INFO] src.MyLogger.log	-	3	-	null
+2023-02-09 09:47:02.497 [INFO] src.MyLogger.log	-	Setting the scene to studentList	-	null
+2023-02-09 09:47:03.017 [INFO] src.MyLogger.log	-	Pushing studentList	-	null
+2023-02-09 09:47:03.019 [INFO] src.MyLogger.log	-	3	-	null
+2023-02-09 09:47:06.850 [INFO] src.MyLogger.log	-	Setting the scene to studentEdit	-	null
+2023-02-09 09:47:06.859 [INFO] src.MyLogger.log	-	Pushing studentEdit	-	null
+2023-02-09 09:47:06.860 [INFO] src.MyLogger.log	-	4	-	null
+2023-02-09 09:47:11.630 [INFO] src.MyLogger.log	-	Setting the scene to studentList	-	null
+2023-02-09 09:47:12.671 [INFO] src.MyLogger.log	-	Pushing studentList	-	null
+2023-02-09 09:47:12.673 [INFO] src.MyLogger.log	-	3	-	null
+2023-02-09 09:47:12.679 [INFO] src.MyLogger.log	-	Setting the scene to studentList	-	null
+2023-02-09 09:47:13.270 [INFO] src.MyLogger.log	-	Pushing studentList	-	null
+2023-02-09 09:47:13.271 [INFO] src.MyLogger.log	-	3	-	null
+2023-02-09 09:49:09.273 [INFO] src.MyLogger.init	-	Logger initialized	-	null
+2023-02-09 09:49:09.286 [INFO] src.MyLogger.log	-	Starting the application	-	null
+2023-02-09 09:49:09.392 [INFO] src.MyLogger.log	-	Constructing the scenes	-	null
+2023-02-09 09:49:09.393 [INFO] src.MyLogger.log	-	Constructing the login page	-	null
+2023-02-09 09:49:09.394 [INFO] src.MyLogger.log	-	Loading the login page from fxml	-	null
+2023-02-09 09:49:09.650 [INFO] src.MyLogger.log	-	Setting up the login success callback	-	null
+2023-02-09 09:49:09.652 [INFO] src.MyLogger.log	-	Setting up the login failure callback	-	null
+2023-02-09 09:49:09.714 [INFO] src.MyLogger.log	-	Adding the scene to the scene manager	-	null
+2023-02-09 09:49:09.714 [INFO] src.MyLogger.log	-	login	-	null
+2023-02-09 09:49:09.715 [INFO] src.MyLogger.log	-	Constructing the game page	-	null
+2023-02-09 09:49:09.794 [SEVERE] src.MyLogger.log	-	src/wordle/score.ser (No such file or directory)	-	java.io.FileNotFoundException: src/wordle/score.ser (No such file or directory)
+2023-02-09 09:49:09.800 [INFO] src.MyLogger.log	-	score	-	null
+2023-02-09 09:49:09.812 [INFO] src.MyLogger.log	-	Adding the scene to the scene manager	-	null
+2023-02-09 09:49:09.815 [INFO] src.MyLogger.log	-	wordle	-	null
+2023-02-09 09:49:09.827 [INFO] src.MyLogger.log	-	Constructing the student management	-	null
+2023-02-09 09:49:09.911 [INFO] src.MyLogger.log	-	studentList	-	null
+2023-02-09 09:49:09.993 [INFO] src.MyLogger.log	-	studentEdit	-	null
+2023-02-09 09:49:10.038 [INFO] src.MyLogger.log	-	studentRegister	-	null
+2023-02-09 09:49:10.045 [INFO] src.MyLogger.log	-	Adding Icon	-	null
+2023-02-09 09:49:10.045 [INFO] src.MyLogger.log	-	Loading icon	-	null
+2023-02-09 09:49:10.102 [INFO] src.MyLogger.log	-	Ctrl + X handler	-	null
+2023-02-09 09:49:10.103 [INFO] src.MyLogger.log	-	Setting the scene to login	-	null
+2023-02-09 09:49:10.104 [INFO] src.MyLogger.log	-	Pushing login	-	null
+2023-02-09 09:49:10.105 [INFO] src.MyLogger.log	-	0	-	null
+2023-02-09 09:49:10.107 [INFO] src.MyLogger.log	-	Showing the stage	-	null
+2023-02-09 09:49:14.609 [INFO] src.MyLogger.log	-	Setting the scene to wordle	-	null
+2023-02-09 09:49:14.617 [INFO] src.MyLogger.log	-	Pushing wordle	-	null
+2023-02-09 09:49:14.619 [INFO] src.MyLogger.log	-	2	-	null
+2023-02-09 09:49:18.416 [INFO] src.MyLogger.log	-	Setting the scene to studentList	-	null
+2023-02-09 09:49:18.421 [INFO] src.MyLogger.log	-	Pushing studentList	-	null
+2023-02-09 09:49:18.424 [INFO] src.MyLogger.log	-	3	-	null
+2023-02-09 09:49:23.911 [INFO] src.MyLogger.log	-	Setting the scene to studentEdit	-	null
+2023-02-09 09:49:23.914 [INFO] src.MyLogger.log	-	Pushing studentEdit	-	null
+2023-02-09 09:49:23.915 [INFO] src.MyLogger.log	-	4	-	null
+2023-02-09 09:49:30.431 [INFO] src.MyLogger.log	-	Setting the scene to studentList	-	null
+2023-02-09 09:49:31.856 [INFO] src.MyLogger.log	-	Pushing studentList	-	null
+2023-02-09 09:49:31.858 [INFO] src.MyLogger.log	-	3	-	null
+2023-02-09 09:49:31.873 [INFO] src.MyLogger.log	-	Setting the scene to studentList	-	null
+2023-02-09 09:49:33.134 [INFO] src.MyLogger.log	-	Pushing studentList	-	null
+2023-02-09 09:49:33.136 [INFO] src.MyLogger.log	-	3	-	null
+2023-02-09 09:49:35.438 [INFO] src.MyLogger.log	-	Setting the scene to score	-	null
+2023-02-09 09:49:35.442 [INFO] src.MyLogger.log	-	Pushing score	-	null
+2023-02-09 09:49:35.444 [INFO] src.MyLogger.log	-	1	-	null
+2023-02-09 09:49:37.216 [INFO] src.MyLogger.log	-	Setting the scene to wordle	-	null
+2023-02-09 09:49:37.220 [INFO] src.MyLogger.log	-	Pushing wordle	-	null
+2023-02-09 09:49:37.221 [INFO] src.MyLogger.log	-	2	-	null
+2023-02-09 09:49:49.555 [INFO] src.MyLogger.log	-	Setting the scene to score	-	null
+2023-02-09 09:49:49.559 [INFO] src.MyLogger.log	-	Pushing score	-	null
+2023-02-09 09:49:49.561 [INFO] src.MyLogger.log	-	1	-	null
+2023-02-09 09:52:32.084 [INFO] src.MyLogger.init	-	Logger initialized	-	null
+2023-02-09 09:52:32.103 [INFO] src.MyLogger.log	-	Starting the application	-	null
+2023-02-09 09:52:32.223 [INFO] src.MyLogger.log	-	Constructing the scenes	-	null
+2023-02-09 09:52:32.225 [INFO] src.MyLogger.log	-	Constructing the login page	-	null
+2023-02-09 09:52:32.227 [INFO] src.MyLogger.log	-	Loading the login page from fxml	-	null
+2023-02-09 09:52:32.251 [SEVERE] src.MyLogger.log	-	
+/home/nokib/.config/Code/User/workspaceStorage/7f05b5f502bd2ce51b7a34ffd972fb5f/redhat.java/jdt_ws/tr_c42f96f/bin/src/login/login.fxml:14
+	-	javafx.fxml.LoadException: 
+/home/nokib/.config/Code/User/workspaceStorage/7f05b5f502bd2ce51b7a34ffd972fb5f/redhat.java/jdt_ws/tr_c42f96f/bin/src/login/login.fxml:14
+
+2023-02-09 09:52:32.254 [INFO] src.MyLogger.log	-	Scene login does not exist	-	null
+2023-02-09 09:52:32.255 [INFO] src.MyLogger.log	-	Showing the stage	-	null
+2023-02-09 09:52:58.440 [INFO] src.MyLogger.init	-	Logger initialized	-	null
+2023-02-09 09:52:58.453 [INFO] src.MyLogger.log	-	Starting the application	-	null
+2023-02-09 09:52:58.560 [INFO] src.MyLogger.log	-	Constructing the scenes	-	null
+2023-02-09 09:52:58.561 [INFO] src.MyLogger.log	-	Constructing the login page	-	null
+2023-02-09 09:52:58.563 [INFO] src.MyLogger.log	-	Loading the login page from fxml	-	null
+2023-02-09 09:53:13.504 [INFO] src.MyLogger.init	-	Logger initialized	-	null
+2023-02-09 09:53:13.519 [INFO] src.MyLogger.log	-	Starting the application	-	null
+2023-02-09 09:53:13.638 [INFO] src.MyLogger.log	-	Constructing the scenes	-	null
+2023-02-09 09:53:13.639 [INFO] src.MyLogger.log	-	Constructing the login page	-	null
+2023-02-09 09:53:13.640 [INFO] src.MyLogger.log	-	Loading the login page from fxml	-	null
+2023-02-09 09:53:13.664 [SEVERE] src.MyLogger.log	-	
+/home/nokib/.config/Code/User/workspaceStorage/7f05b5f502bd2ce51b7a34ffd972fb5f/redhat.java/jdt_ws/tr_c42f96f/bin/src/login/login.fxml:14
+	-	javafx.fxml.LoadException: 
+/home/nokib/.config/Code/User/workspaceStorage/7f05b5f502bd2ce51b7a34ffd972fb5f/redhat.java/jdt_ws/tr_c42f96f/bin/src/login/login.fxml:14
+
+2023-02-09 09:53:13.668 [INFO] src.MyLogger.log	-	Scene login does not exist	-	null
+2023-02-09 09:53:13.669 [INFO] src.MyLogger.log	-	Showing the stage	-	null
+2023-02-09 09:53:31.460 [INFO] src.MyLogger.init	-	Logger initialized	-	null
+2023-02-09 09:53:31.477 [INFO] src.MyLogger.log	-	Starting the application	-	null
+2023-02-09 09:53:31.595 [INFO] src.MyLogger.log	-	Constructing the scenes	-	null
+2023-02-09 09:53:31.597 [INFO] src.MyLogger.log	-	Constructing the login page	-	null
+2023-02-09 09:53:31.598 [INFO] src.MyLogger.log	-	Loading the login page from fxml	-	null
+2023-02-09 09:53:31.779 [INFO] src.MyLogger.log	-	Setting up the login success callback	-	null
+2023-02-09 09:53:31.782 [INFO] src.MyLogger.log	-	Setting up the login failure callback	-	null
+2023-02-09 09:53:31.839 [INFO] src.MyLogger.log	-	Adding the scene to the scene manager	-	null
+2023-02-09 09:53:31.840 [INFO] src.MyLogger.log	-	login	-	null
+2023-02-09 09:53:31.841 [INFO] src.MyLogger.log	-	Constructing the game page	-	null
+2023-02-09 09:53:31.944 [INFO] src.MyLogger.log	-	score	-	null
+2023-02-09 09:53:31.948 [INFO] src.MyLogger.log	-	Adding the scene to the scene manager	-	null
+2023-02-09 09:53:31.949 [INFO] src.MyLogger.log	-	wordle	-	null
+2023-02-09 09:53:31.950 [INFO] src.MyLogger.log	-	Constructing the student management	-	null
+2023-02-09 09:53:32.058 [INFO] src.MyLogger.log	-	studentList	-	null
+2023-02-09 09:53:32.155 [INFO] src.MyLogger.log	-	studentEdit	-	null
+2023-02-09 09:53:32.217 [INFO] src.MyLogger.log	-	studentRegister	-	null
+2023-02-09 09:53:32.218 [INFO] src.MyLogger.log	-	Adding Icon	-	null
+2023-02-09 09:53:32.227 [INFO] src.MyLogger.log	-	Loading icon	-	null
+2023-02-09 09:53:32.324 [INFO] src.MyLogger.log	-	Ctrl + X handler	-	null
+2023-02-09 09:53:32.325 [INFO] src.MyLogger.log	-	Setting the scene to login	-	null
+2023-02-09 09:53:32.326 [INFO] src.MyLogger.log	-	Pushing login	-	null
+2023-02-09 09:53:32.327 [INFO] src.MyLogger.log	-	0	-	null
+2023-02-09 09:53:32.328 [INFO] src.MyLogger.log	-	Showing the stage	-	null
+2023-02-09 09:54:11.630 [INFO] src.MyLogger.init	-	Logger initialized	-	null
+2023-02-09 09:54:11.643 [INFO] src.MyLogger.log	-	Starting the application	-	null
+2023-02-09 09:54:11.754 [INFO] src.MyLogger.log	-	Constructing the scenes	-	null
+2023-02-09 09:54:11.755 [INFO] src.MyLogger.log	-	Constructing the login page	-	null
+2023-02-09 09:54:11.756 [INFO] src.MyLogger.log	-	Loading the login page from fxml	-	null
+2023-02-09 09:54:12.023 [INFO] src.MyLogger.log	-	Setting up the login success callback	-	null
+2023-02-09 09:54:12.025 [INFO] src.MyLogger.log	-	Setting up the login failure callback	-	null
+2023-02-09 09:54:12.090 [INFO] src.MyLogger.log	-	Adding the scene to the scene manager	-	null
+2023-02-09 09:54:12.091 [INFO] src.MyLogger.log	-	login	-	null
+2023-02-09 09:54:12.092 [INFO] src.MyLogger.log	-	Constructing the game page	-	null
+2023-02-09 09:54:12.199 [INFO] src.MyLogger.log	-	score	-	null
+2023-02-09 09:54:12.204 [INFO] src.MyLogger.log	-	Adding the scene to the scene manager	-	null
+2023-02-09 09:54:12.204 [INFO] src.MyLogger.log	-	wordle	-	null
+2023-02-09 09:54:12.205 [INFO] src.MyLogger.log	-	Constructing the student management	-	null
+2023-02-09 09:54:12.279 [INFO] src.MyLogger.log	-	studentList	-	null
+2023-02-09 09:54:12.358 [INFO] src.MyLogger.log	-	studentEdit	-	null
+2023-02-09 09:54:12.408 [INFO] src.MyLogger.log	-	studentRegister	-	null
+2023-02-09 09:54:12.409 [INFO] src.MyLogger.log	-	Adding Icon	-	null
+2023-02-09 09:54:12.410 [INFO] src.MyLogger.log	-	Loading icon	-	null
+2023-02-09 09:54:12.474 [INFO] src.MyLogger.log	-	Ctrl + X handler	-	null
+2023-02-09 09:54:12.475 [INFO] src.MyLogger.log	-	Setting the scene to login	-	null
+2023-02-09 09:54:12.476 [INFO] src.MyLogger.log	-	Pushing login	-	null
+2023-02-09 09:54:12.476 [INFO] src.MyLogger.log	-	0	-	null
+2023-02-09 09:54:12.478 [INFO] src.MyLogger.log	-	Showing the stage	-	null
+2023-02-09 09:54:17.654 [INFO] src.MyLogger.log	-	Setting the scene to wordle	-	null
+2023-02-09 09:54:17.662 [INFO] src.MyLogger.log	-	Pushing wordle	-	null
+2023-02-09 09:54:17.664 [INFO] src.MyLogger.log	-	2	-	null
+2023-02-09 10:22:23.113 [INFO] src.MyLogger.init	-	Logger initialized	-	null
+2023-02-09 10:22:23.127 [INFO] src.MyLogger.log	-	Starting the application	-	null
+2023-02-09 10:22:23.239 [INFO] src.MyLogger.log	-	Constructing the scenes	-	null
+2023-02-09 10:22:23.240 [INFO] src.MyLogger.log	-	Constructing the login page	-	null
+2023-02-09 10:22:23.241 [INFO] src.MyLogger.log	-	Loading the login page from fxml	-	null
+2023-02-09 10:22:23.514 [INFO] src.MyLogger.log	-	Setting up the login success callback	-	null
+2023-02-09 10:22:23.516 [INFO] src.MyLogger.log	-	Setting up the login failure callback	-	null
+2023-02-09 10:22:23.590 [INFO] src.MyLogger.log	-	Adding the scene to the scene manager	-	null
+2023-02-09 10:22:23.591 [INFO] src.MyLogger.log	-	login	-	null
+2023-02-09 10:22:23.592 [INFO] src.MyLogger.log	-	Constructing the game page	-	null
+2023-02-09 10:22:23.717 [INFO] src.MyLogger.log	-	score	-	null
+2023-02-09 10:22:23.726 [INFO] src.MyLogger.log	-	Adding the scene to the scene manager	-	null
+2023-02-09 10:22:23.727 [INFO] src.MyLogger.log	-	wordle	-	null
+2023-02-09 10:22:23.728 [INFO] src.MyLogger.log	-	Constructing the student management	-	null
+2023-02-09 10:22:23.798 [INFO] src.MyLogger.log	-	studentList	-	null
+2023-02-09 10:22:23.894 [INFO] src.MyLogger.log	-	studentEdit	-	null
+2023-02-09 10:22:23.948 [INFO] src.MyLogger.log	-	studentRegister	-	null
+2023-02-09 10:22:23.950 [INFO] src.MyLogger.log	-	Constructing the menu scene	-	null
+2023-02-09 10:23:36.232 [INFO] src.MyLogger.init	-	Logger initialized	-	null
+2023-02-09 10:23:36.245 [INFO] src.MyLogger.log	-	Starting the application	-	null
+2023-02-09 10:23:36.355 [INFO] src.MyLogger.log	-	Constructing the scenes	-	null
+2023-02-09 10:23:36.356 [INFO] src.MyLogger.log	-	Constructing the login page	-	null
+2023-02-09 10:23:36.357 [INFO] src.MyLogger.log	-	Loading the login page from fxml	-	null
+2023-02-09 10:23:36.623 [INFO] src.MyLogger.log	-	Setting up the login success callback	-	null
+2023-02-09 10:23:36.626 [INFO] src.MyLogger.log	-	Setting up the login failure callback	-	null
+2023-02-09 10:23:36.692 [INFO] src.MyLogger.log	-	Adding the scene to the scene manager	-	null
+2023-02-09 10:23:36.694 [INFO] src.MyLogger.log	-	login	-	null
+2023-02-09 10:23:36.695 [INFO] src.MyLogger.log	-	Constructing the game page	-	null
+2023-02-09 10:23:36.814 [INFO] src.MyLogger.log	-	score	-	null
+2023-02-09 10:23:36.820 [INFO] src.MyLogger.log	-	Adding the scene to the scene manager	-	null
+2023-02-09 10:23:36.821 [INFO] src.MyLogger.log	-	wordle	-	null
+2023-02-09 10:23:36.821 [INFO] src.MyLogger.log	-	Constructing the student management	-	null
+2023-02-09 10:23:36.883 [INFO] src.MyLogger.log	-	studentList	-	null
+2023-02-09 10:23:36.969 [INFO] src.MyLogger.log	-	studentEdit	-	null
+2023-02-09 10:23:37.024 [INFO] src.MyLogger.log	-	studentRegister	-	null
+2023-02-09 10:23:37.025 [INFO] src.MyLogger.log	-	Constructing the menu scene	-	null
+2023-02-09 10:24:44.908 [INFO] src.MyLogger.init	-	Logger initialized	-	null
+2023-02-09 10:24:44.925 [INFO] src.MyLogger.log	-	Starting the application	-	null
+2023-02-09 10:24:45.043 [INFO] src.MyLogger.log	-	Constructing the scenes	-	null
+2023-02-09 10:24:45.044 [INFO] src.MyLogger.log	-	Constructing the login page	-	null
+2023-02-09 10:24:45.045 [INFO] src.MyLogger.log	-	Loading the login page from fxml	-	null
+2023-02-09 10:24:45.333 [INFO] src.MyLogger.log	-	Setting up the login success callback	-	null
+2023-02-09 10:24:45.335 [INFO] src.MyLogger.log	-	Setting up the login failure callback	-	null
+2023-02-09 10:24:45.396 [INFO] src.MyLogger.log	-	Adding the scene to the scene manager	-	null
+2023-02-09 10:24:45.398 [INFO] src.MyLogger.log	-	login	-	null
+2023-02-09 10:24:45.399 [INFO] src.MyLogger.log	-	Constructing the game page	-	null
+2023-02-09 10:24:45.533 [INFO] src.MyLogger.log	-	score	-	null
+2023-02-09 10:24:45.539 [INFO] src.MyLogger.log	-	Adding the scene to the scene manager	-	null
+2023-02-09 10:24:45.541 [INFO] src.MyLogger.log	-	wordle	-	null
+2023-02-09 10:24:45.542 [INFO] src.MyLogger.log	-	Constructing the student management	-	null
+2023-02-09 10:24:45.608 [INFO] src.MyLogger.log	-	studentList	-	null
+2023-02-09 10:24:45.689 [INFO] src.MyLogger.log	-	studentEdit	-	null
+2023-02-09 10:24:45.739 [INFO] src.MyLogger.log	-	studentRegister	-	null
+2023-02-09 10:24:45.740 [INFO] src.MyLogger.log	-	Constructing the menu scene	-	null
+2023-02-09 10:24:45.753 [INFO] src.MyLogger.log	-	Adding the scene to the scene manager	-	null
+2023-02-09 10:24:45.754 [INFO] src.MyLogger.log	-	menu	-	null
+2023-02-09 10:24:45.755 [INFO] src.MyLogger.log	-	Adding Icon	-	null
+2023-02-09 10:24:45.756 [INFO] src.MyLogger.log	-	Loading icon	-	null
+2023-02-09 10:24:45.813 [INFO] src.MyLogger.log	-	Ctrl + X handler	-	null
+2023-02-09 10:24:45.815 [INFO] src.MyLogger.log	-	Setting the scene to menu	-	null
+2023-02-09 10:24:45.816 [INFO] src.MyLogger.log	-	Pushing menu	-	null
+2023-02-09 10:24:45.817 [INFO] src.MyLogger.log	-	6	-	null
+2023-02-09 10:24:45.819 [INFO] src.MyLogger.log	-	Showing the stage	-	null
+2023-02-09 10:24:49.168 [INFO] src.MyLogger.log	-	Setting the scene to studentList	-	null
+2023-02-09 10:24:49.177 [INFO] src.MyLogger.log	-	Pushing studentList	-	null
+2023-02-09 10:24:49.179 [INFO] src.MyLogger.log	-	3	-	null
+2023-02-09 10:25:00.530 [INFO] src.MyLogger.init	-	Logger initialized	-	null
+2023-02-09 10:25:00.546 [INFO] src.MyLogger.log	-	Starting the application	-	null
+2023-02-09 10:25:00.662 [INFO] src.MyLogger.log	-	Constructing the scenes	-	null
+2023-02-09 10:25:00.663 [INFO] src.MyLogger.log	-	Constructing the login page	-	null
+2023-02-09 10:25:00.665 [INFO] src.MyLogger.log	-	Loading the login page from fxml	-	null
+2023-02-09 10:25:00.938 [INFO] src.MyLogger.log	-	Setting up the login success callback	-	null
+2023-02-09 10:25:00.940 [INFO] src.MyLogger.log	-	Setting up the login failure callback	-	null
+2023-02-09 10:25:01.007 [INFO] src.MyLogger.log	-	Adding the scene to the scene manager	-	null
+2023-02-09 10:25:01.008 [INFO] src.MyLogger.log	-	login	-	null
+2023-02-09 10:25:01.009 [INFO] src.MyLogger.log	-	Constructing the game page	-	null
+2023-02-09 10:25:01.121 [INFO] src.MyLogger.log	-	score	-	null
+2023-02-09 10:25:01.126 [INFO] src.MyLogger.log	-	Adding the scene to the scene manager	-	null
+2023-02-09 10:25:01.127 [INFO] src.MyLogger.log	-	wordle	-	null
+2023-02-09 10:25:01.128 [INFO] src.MyLogger.log	-	Constructing the student management	-	null
+2023-02-09 10:25:01.196 [INFO] src.MyLogger.log	-	studentList	-	null
+2023-02-09 10:25:01.276 [INFO] src.MyLogger.log	-	studentEdit	-	null
+2023-02-09 10:25:01.325 [INFO] src.MyLogger.log	-	studentRegister	-	null
+2023-02-09 10:25:01.326 [INFO] src.MyLogger.log	-	Constructing the menu scene	-	null
+2023-02-09 10:25:01.336 [INFO] src.MyLogger.log	-	Adding the scene to the scene manager	-	null
+2023-02-09 10:25:01.337 [INFO] src.MyLogger.log	-	menu	-	null
+2023-02-09 10:25:01.338 [INFO] src.MyLogger.log	-	Adding Icon	-	null
+2023-02-09 10:25:01.338 [INFO] src.MyLogger.log	-	Loading icon	-	null
+2023-02-09 10:25:01.396 [INFO] src.MyLogger.log	-	Ctrl + X handler	-	null
+2023-02-09 10:25:01.397 [INFO] src.MyLogger.log	-	Setting the scene to menu	-	null
+2023-02-09 10:25:01.398 [INFO] src.MyLogger.log	-	Pushing menu	-	null
+2023-02-09 10:25:01.399 [INFO] src.MyLogger.log	-	6	-	null
+2023-02-09 10:25:01.404 [INFO] src.MyLogger.log	-	Showing the stage	-	null
+2023-02-09 10:25:10.121 [INFO] src.MyLogger.log	-	Setting the scene to wordle	-	null
+2023-02-09 10:25:10.130 [INFO] src.MyLogger.log	-	Pushing wordle	-	null
+2023-02-09 10:25:10.133 [INFO] src.MyLogger.log	-	2	-	null
+2023-02-09 10:25:15.845 [INFO] src.MyLogger.init	-	Logger initialized	-	null
+2023-02-09 10:25:15.862 [INFO] src.MyLogger.log	-	Starting the application	-	null
+2023-02-09 10:25:15.992 [INFO] src.MyLogger.log	-	Constructing the scenes	-	null
+2023-02-09 10:25:15.994 [INFO] src.MyLogger.log	-	Constructing the login page	-	null
+2023-02-09 10:25:15.995 [INFO] src.MyLogger.log	-	Loading the login page from fxml	-	null
+2023-02-09 10:25:16.281 [INFO] src.MyLogger.log	-	Setting up the login success callback	-	null
+2023-02-09 10:25:16.283 [INFO] src.MyLogger.log	-	Setting up the login failure callback	-	null
+2023-02-09 10:25:16.347 [INFO] src.MyLogger.log	-	Adding the scene to the scene manager	-	null
+2023-02-09 10:25:16.348 [INFO] src.MyLogger.log	-	login	-	null
+2023-02-09 10:25:16.348 [INFO] src.MyLogger.log	-	Constructing the game page	-	null
+2023-02-09 10:25:16.473 [INFO] src.MyLogger.log	-	score	-	null
+2023-02-09 10:25:16.479 [INFO] src.MyLogger.log	-	Adding the scene to the scene manager	-	null
+2023-02-09 10:25:16.480 [INFO] src.MyLogger.log	-	wordle	-	null
+2023-02-09 10:25:16.482 [INFO] src.MyLogger.log	-	Constructing the student management	-	null
+2023-02-09 10:25:16.549 [INFO] src.MyLogger.log	-	studentList	-	null
+2023-02-09 10:25:16.638 [INFO] src.MyLogger.log	-	studentEdit	-	null
+2023-02-09 10:25:16.683 [INFO] src.MyLogger.log	-	studentRegister	-	null
+2023-02-09 10:25:16.684 [INFO] src.MyLogger.log	-	Constructing the menu scene	-	null
+2023-02-09 10:25:16.695 [INFO] src.MyLogger.log	-	Adding the scene to the scene manager	-	null
+2023-02-09 10:25:16.695 [INFO] src.MyLogger.log	-	menu	-	null
+2023-02-09 10:25:16.703 [INFO] src.MyLogger.log	-	Adding Icon	-	null
+2023-02-09 10:25:16.704 [INFO] src.MyLogger.log	-	Loading icon	-	null
+2023-02-09 10:25:16.764 [INFO] src.MyLogger.log	-	Ctrl + X handler	-	null
+2023-02-09 10:25:16.765 [INFO] src.MyLogger.log	-	Setting the scene to menu	-	null
+2023-02-09 10:25:16.766 [INFO] src.MyLogger.log	-	Pushing menu	-	null
+2023-02-09 10:25:16.767 [INFO] src.MyLogger.log	-	6	-	null
+2023-02-09 10:25:16.774 [INFO] src.MyLogger.log	-	Showing the stage	-	null
+2023-02-09 10:25:18.672 [INFO] src.MyLogger.log	-	Setting the scene to login	-	null
+2023-02-09 10:25:18.680 [INFO] src.MyLogger.log	-	Pushing login	-	null
+2023-02-09 10:25:18.683 [INFO] src.MyLogger.log	-	0	-	null
+2023-02-09 10:26:07.426 [INFO] src.MyLogger.init	-	Logger initialized	-	null
+2023-02-09 10:26:07.442 [INFO] src.MyLogger.log	-	Starting the application	-	null
+2023-02-09 10:26:07.546 [INFO] src.MyLogger.log	-	Constructing the scenes	-	null
+2023-02-09 10:26:07.547 [INFO] src.MyLogger.log	-	Constructing the login page	-	null
+2023-02-09 10:26:07.548 [INFO] src.MyLogger.log	-	Loading the login page from fxml	-	null
+2023-02-09 10:26:07.821 [INFO] src.MyLogger.log	-	Setting up the login success callback	-	null
+2023-02-09 10:26:07.823 [INFO] src.MyLogger.log	-	Setting up the login failure callback	-	null
+2023-02-09 10:26:07.893 [INFO] src.MyLogger.log	-	Adding the scene to the scene manager	-	null
+2023-02-09 10:26:07.895 [INFO] src.MyLogger.log	-	login	-	null
+2023-02-09 10:26:07.896 [INFO] src.MyLogger.log	-	Constructing the game page	-	null
+2023-02-09 10:26:08.067 [INFO] src.MyLogger.log	-	score	-	null
+2023-02-09 10:26:08.088 [INFO] src.MyLogger.log	-	Adding the scene to the scene manager	-	null
+2023-02-09 10:26:08.089 [INFO] src.MyLogger.log	-	wordle	-	null
+2023-02-09 10:26:08.090 [INFO] src.MyLogger.log	-	Constructing the student management	-	null
+2023-02-09 10:26:08.158 [INFO] src.MyLogger.log	-	studentList	-	null
+2023-02-09 10:26:08.238 [INFO] src.MyLogger.log	-	studentEdit	-	null
+2023-02-09 10:26:08.285 [INFO] src.MyLogger.log	-	studentRegister	-	null
+2023-02-09 10:26:08.286 [INFO] src.MyLogger.log	-	Constructing the menu scene	-	null
+2023-02-09 10:26:08.349 [INFO] src.MyLogger.log	-	Adding the scene to the scene manager	-	null
+2023-02-09 10:26:08.350 [INFO] src.MyLogger.log	-	menu	-	null
+2023-02-09 10:26:08.351 [INFO] src.MyLogger.log	-	Adding Icon	-	null
+2023-02-09 10:26:08.352 [INFO] src.MyLogger.log	-	Loading icon	-	null
+2023-02-09 10:26:08.405 [INFO] src.MyLogger.log	-	Ctrl + X handler	-	null
+2023-02-09 10:26:08.407 [INFO] src.MyLogger.log	-	Setting the scene to menu	-	null
+2023-02-09 10:26:08.408 [INFO] src.MyLogger.log	-	Pushing menu	-	null
+2023-02-09 10:26:08.409 [INFO] src.MyLogger.log	-	6	-	null
+2023-02-09 10:26:08.410 [INFO] src.MyLogger.log	-	Showing the stage	-	null
+2023-02-09 10:26:32.152 [INFO] src.MyLogger.log	-	Setting the scene to wordle	-	null
+2023-02-09 10:26:32.160 [INFO] src.MyLogger.log	-	Pushing wordle	-	null
+2023-02-09 10:26:32.162 [INFO] src.MyLogger.log	-	2	-	null
